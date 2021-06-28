@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="205.925" viewBox="0 0 145 205.925">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d3d3d3"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_57038" data-name="Grupo 57038" transform="translate(-625.404 -794.007)">
+    <path id="Trazado_10212" data-name="Trazado 10212" d="M625.4,981.669,761.5,967.18l8.9-2.27V803.383a7.252,7.252,0,0,0-7.215-7.216H638.612A13.286,13.286,0,0,0,625.4,809.434Z" transform="translate(0 -0.182)" fill="#7d6eb2" fill-rule="evenodd"/>
+    <path id="Trazado_10213" data-name="Trazado 10213" d="M625.4,981.669h15.477v-185.5h-2.269A13.286,13.286,0,0,0,625.4,809.434Z" transform="translate(0 -0.182)" fill="#ffd947" fill-rule="evenodd"/>
+    <path id="Trazado_10214" data-name="Trazado 10214" d="M644.3,980.913H767.362a63.181,63.181,0,0,0,0,31.77H644.705c-19.783.931-19.2-30.723-.407-31.77Z" transform="translate(-0.391 -15.777)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Trazado_10215" data-name="Trazado 10215" d="M766.8,996.674a24.109,24.109,0,0,0,0,2.909l-119.979-1.454h0Z" transform="translate(-1.808 -17.108)" fill="#12263f" fill-rule="evenodd"/>
+    <path id="Trazado_10216" data-name="Trazado 10216" d="M769.064,990.7c-.058.7-.116,1.4-.174,2.154l-99.382-1.106Z" transform="translate(-3.723 -16.603)" fill="#12263f" fill-rule="evenodd"/>
+    <path id="Trazado_10217" data-name="Trazado 10217" d="M770.4,1015.511h-126.5a18.474,18.474,0,1,1,0-36.948H770.4V985.2h-126.5a11.841,11.841,0,1,0,0,23.682H770.4Z" transform="translate(0 -15.579)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_10218" data-name="Trazado 10218" d="M769.064,1006.072c-.058-.756-.116-1.455-.174-2.152l-99.382,1.046Z" transform="translate(-3.723 -17.719)" fill="#12263f" fill-rule="evenodd"/>
+    <path id="Trazado_10219" data-name="Trazado 10219" d="M666.356,831.184h84.253a6.01,6.01,0,0,0,5.935,5.993v19.9a5.96,5.96,0,0,0-5.935,5.935H666.356a5.96,5.96,0,0,0-5.936-5.935v-19.9a6.011,6.011,0,0,0,5.936-5.993Z" transform="translate(-2.956 -3.138)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path id="Trazado_10220" data-name="Trazado 10220" d="M679.981,794.007h15.245a2.31,2.31,0,0,1,2.269,2.269V873.14c-3.258-3.433-6.516-6.925-9.775-10.416H687.6c-3.259,3.491-6.575,6.982-9.833,10.416V796.276a2.26,2.26,0,0,1,2.211-2.269Z" transform="translate(-4.42)" fill="#12263f" fill-rule="evenodd"/>
+  </g>
+</svg>
