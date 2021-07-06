@@ -12,12 +12,12 @@ const router = new VueRouter({
       name: 'inicio',
       component: Inicio,
     },
-    {
-      path: '/introduccion',
-      name: 'introduccion',
-      component: () =>
-        import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
-    },
+    //{
+    //  path: '/introduccion',
+    //  name: 'introduccion',
+    //  component: () =>
+    //    import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
+    //},
     {
       path: '/curso',
       name: 'curso',

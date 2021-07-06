@@ -13,17 +13,17 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      {
-        nombreRuta: 'introduccion',
-        icono: 'fas fa-info',
-        titulo: 'Introducción',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'introduccion',
+      //  icono: 'fas fa-info',
+      //  titulo: 'Introducción',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Antecedentes de investigación de mercados',
+        titulo: 'Antecedentes de la investigación de mercados',
         desarrolloContenidos: true,
       },
       {
@@ -196,7 +196,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Kotler, P. & Armstrong, G. (2003). Fundamentos de Mercadotecnia. McGraw Hill. Mauborgne, R., &.',
+        'Kotler, P. & Armstrong, G. (2003). Fundamentos de Mercadotecnia. McGraw Hill.',
     },
     {
       referencia: 'Kotler, P. & Armstrong, G. (2012). Marketing. Pearson.',
@@ -207,11 +207,11 @@ export default {
     },
     {
       referencia:
-        'Pastor, F., Guijarro, J., Espinosa, P. y Sánchez. A. (2003). Técnico en Publicidad. Cultural SA.',
+        'Pastor, F., Guijarro, J., Espinosa, P. y Sánchez. A. (2003). Técnico en Publicidad. Cultural S.A.',
     },
     {
       referencia:
-        'Prieto, J. E (2013). Investigación de Mercados. Ecoe Ediciones.',
+        'Prieto, J. E. (2013). Investigación de Mercados. Ecoe Ediciones.',
     },
     {
       referencia:
@@ -278,7 +278,7 @@ export default {
       link: 'https://cutt.ly/iyR0A0n',
     },
     {
-      texto: 'Prieto, J. E (2013). Investigación de Mercados.',
+      texto: 'Prieto, J. E. (2013). Investigación de Mercados.',
       tipo: 'Libro Biblioteca SENA',
       link: 'https://cutt.ly/UyR0LfW',
     },
@@ -304,6 +304,22 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor - Experto temático',
+        centro: 'Centro de Comercio y Servicios Regional Quindío',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Evaluadora instruccional',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -318,25 +334,30 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Jesús Antonio Vecino Valero',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Camilo Andrés Villamizar Lizcano',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jhon Jairo Urueta Álvarez',
+        cargo: 'Desarrollo front-end',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

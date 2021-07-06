@@ -21,7 +21,7 @@
       h2 3.1 Tipos de investigación
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/HhAMuQUXaDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Dentro de cada empresa existen datos e información específica del sector, por este motivo los métodos de recolección dependerán del tipo de investigación a realizar:
     .row.align-items-center.mb-5
       .col-lg-8
@@ -51,14 +51,14 @@
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0 Dependiendo del tipo de investigación, el encargado del desarrollo del brief, ya sea el responsable del marketing en la empresa, la agencia de publicidad o el freelance debe determinar las fuentes de información.
+          p.mb-0 Dependiendo del tipo de investigación, el encargado del desarrollo del brief, ya sea el responsable del marketing en la empresa, la agencia de publicidad o el freelancer debe determinar las fuentes de información.
     separador.mb-5
     #t_3_2
     .titulo-segundo
       h2 3.2 Fuentes de información
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/FDi2VkvRdZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Si bien los datos están a la orden del día gracias a los medios de comunicación digital, es necesario recurrir a diferentes fuentes para obtener la mejor y mayor información posible para minimizar el riesgo en la toma de decisiones y el planteamiento de las estrategias.
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -77,7 +77,7 @@
               p Son fuentes que generan información directa que no se encuentra en otras investigaciones y dan cumplimiento a objetivos puntuales de la búsqueda; también las hay internas, las cuales son obtenidas del personal de la empresa a través de la indagación y externas, es decir, todos aquellos actores del mercado: competidores, proveedores, consumidores, distribuidores, etc.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/c47SPcLtlCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 De acuerdo con el tipo de información que se necesite recolectar, la investigación puede ser:
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
@@ -89,7 +89,7 @@
           p.mb-0 Para ello, es necesario hacer énfasis en la descripción de momentos específicos, lo más usual en estos casos es el desarrollo de encuestas y observación.
         p #[b Cualitativa:] tiene un enfoque en el ¿por qué? y por lo tanto se asocia a la investigación tipo exploratoria.
         .cajon.color-secundario.p-4
-          p.mb-0 Para ello, es necesario hacer énfasis en la descripción de momentos específicos, lo más usual en estos casos es el desarrollo de encuestas y observación.
+          p.mb-0 La investigación cualitativa se centra en los individuos, en sus motivaciones y comportamientos, generando información profunda que debe ser analizada con detalle.
     p.mb-5 Con la investigación cualitativa se pueden abordar problemáticas tales como:
     .row.justify-content-center
       .col-11
@@ -137,7 +137,7 @@
       h2 3.3 Técnicas de recolección de información
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/rAqeHpglhc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 La investigación cualitativa recoge información que tiene como base aspectos psicológicos, sociológicos y antropológicos; de ahí que las técnicas de recolección de datos se enfoquen en el ser y en el análisis en profundidad del mismo. Para obtener datos cualitativos se utilizan los siguientes métodos:
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -145,14 +145,14 @@
           img(src='@/assets/curso/img37.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h2 Entrevista en profundidad
+              h3 Entrevista en profundidad
               p Es una técnica que consiste en una entrevista personal entre investigador y la fuente primaria de información; tiene como requisito fundamental el desarrollo con la ayuda de una guía que se realiza en un tiempo estimado de media a una hora, el objetivo es obtener la mayor cantidad de datos posibles. 
               p Esta técnica se utiliza para: obtener información sobre creencias, motivaciones o actitudes frente a determinado tema, para indagar sobre temas personales que no se hablarían en sesiones de grupo o para inquirir sobre temas profesionales con expertos. Estas entrevistas deben ser grabadas y transcritas completamente para su estudio.
         .tarjeta-avatar-b
-          img(src='@/assets/curso/img34.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img38.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h2 Focus group
+              h3 Focus group
               p También llamados grupos focales o sesiones de grupo. Es tal vez la técnica más utilizada en la publicidad y consiste en realizar entrevistas grupales en sesiones que reúnen de diez a doce personas. 
               p Esta técnica permite obtener una cantidad considerable de información muy valiosa para la toma de decisiones en el desarrollo de estrategias de mercadeo y comunicación. Es muy importante contar con un guion bien estructurado que permita aplicar varias técnicas de recolección de datos, como mapas mentales, descripción de dibujos, juegos de palabras, entre otros.
     p Con el focus group se pueden hacer estudios acerca de: actitudes, obstáculos y hábitos frente a la compra y el consumo, ideas para nuevos productos, análisis del posicionamiento de un producto, pre y pos-test de campaña.
@@ -181,7 +181,7 @@
       .col-lg-5
         figure(data-aos="flip-right")
           img(src='@/assets/curso/img39.svg', style="max-width: 80%; margin: auto;")
-    p.mb-5 #[b Técnicas proyectivas:] estas técnicas son más personales y enfocan al entrevistado hacía la posición de terceras personas; es decir, se pone al investigado en la perspectiva de otros para que se exprese libremente y sin tabúes:
+    p.mb-5 #[b Técnicas proyectivas:] estas técnicas son más personales y enfocan al entrevistado hacia la posición de terceras personas; es decir, se pone al investigado en la perspectiva de otros para que se exprese libremente y sin tabúes:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="flip-right")
@@ -204,7 +204,7 @@
           p.mb-0 Estas técnicas son muy eficaces en el desarrollo de conceptos creativos para campañas publicitarias que se basan en insights de consumidor.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/IXkSw8ASkWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="slide-right")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-10.mb-4.mb-lg-0
@@ -230,7 +230,7 @@
             figure
               img(src='@/assets/curso/img44.svg', style="max-width: 100%; margin: auto;")
           .col
-            p.mb-0 #[b Cuento de hadas:] consiste en comenzar una historia conocida, uno de los cuentos clásicos y pedir a los participantes que la adecuen cambiando elementos o situaciones para adaptarlas a determinado producto o servicio.
+            p.mb-0 #[b Cuento de hadas:] consiste en comenzar una historia conocida, uno de los cuentos clásicos y pedir a los participantes que la adecúen cambiando elementos o situaciones para adaptarlas a determinado producto o servicio.
           .hr1
         .row.align-items-center.mt-4
           .col-auto.d-inline-flex.mb-4
@@ -241,10 +241,10 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0 Es también una técnica cuantitativa, ya que puede arrojar datos descriptivos con base en objetivos concretos y con metodologías estructuradas de datos específicos con muestreos definidos. Sin embargo, su uso cualitativo es muy importante y eficaz debido a que se puede hacer libremente y generar datos informales que den resultados inesperados. Hoy en día, se puede hacer observación directa de la percepción del comprador y del espectador de anuncios publicitarios a través del Eyetracking, un sistema que graba lo que el investigado ve al mismo tiempo que analiza el movimiento y comportamiento de sus ojos, esto permite conocer las zonas, elementos y características que la persona ve con mayor énfasis en una góndola o un aviso publicitario.
+          p.mb-0 Es también una técnica cuantitativa, ya que puede arrojar datos descriptivos con base en objetivos concretos y con metodologías estructuradas de datos específicos con muestreos definidos. Sin embargo, su uso cualitativo es muy importante y eficaz debido a que se puede hacer libremente y generar datos informales que den resultados inesperados. Hoy en día, se puede hacer observación directa de la percepción del comprador y del espectador de anuncios publicitarios a través del Eyetracking, un sistema que graba lo que el investigado ve, al mismo tiempo que analiza el movimiento y comportamiento de sus ojos, esto permite conocer las zonas, elementos y características que la persona ve con mayor énfasis en una góndola o un aviso publicitario.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/b_VTeeBTgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-5.align-items-center
       .col-lg-8.mb-4.mb-lg-0
         p #[b Cliente incógnito:] esta técnica permite realizar observación sobre el personal que tiene contacto directo con los clientes y compradores. El investigador debe comportarse como un cliente real y simular una compra o el uso de un servicio, este debe observar basado en unos criterios preestablecidos el comportamiento del personal de la empresa; también con las tecnologías actuales es posible realizar grabación del evento sin que el investigado se entere.
@@ -267,13 +267,13 @@
           img(src='@/assets/curso/img48.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h2 Sesiones de grupo online
+              h3 Sesiones de grupo online
               p Tiene el mismo concepto de la sesión de grupo presencial, con la variante que se puede realizar con personas que estén en cualquier lugar del mundo y permite la grabación en varios formatos.
         .tarjeta-avatar-b
           img(src='@/assets/curso/img49.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h2 Encuestas
+              h3 Encuestas
               p Es una técnica muy conocida, pero al mismo tiempo eficiente; permite realizar formularios que se pueden entregar a través de un enlace a un número indeterminado de personas que hagan parte del grupo objetivo, con la posibilidad de responder en el momento que el investigado prefiera y tenga disponibilidad de tiempo. La información es almacenada en forma de base de datos y genera análisis estadísticos inmediatos, gracias a los cálculos matemáticos generados por computadoras.
     .cajon.color-secundario.p-4
       p.mb-0 El uso de las diferentes técnicas de recolección de datos depende del tipo de información que se requiera y de la calidad de la misma para la toma de decisiones y el desarrollo de estrategias efectivas de comercialización, promoción o posicionamiento.

@@ -59,7 +59,7 @@
     #t_5_3
     .titulo-segundo
       h2 5.3 Recolección de datos
-    .bloque-texto-a.color-secundario.p-4.p-md-5(data-aos="slide-left")
+    .bloque-texto-a.color-tercero.p-4.p-md-5(data-aos="slide-left")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
           .bloque-texto-a__texto.p-4
@@ -78,12 +78,12 @@
             img(src='@/assets/curso/img75.svg', style="max-width: 80%; margin: auto;")
         .col-lg-9
           .bloque-texto-a__texto.p-4
-            p.mb-0 Requiere de varios pasos, el primero es organizar los datos, luego es necesario tabularlos para convertirlos en información. En este punto también se hace necesario algunos recursos tecnológicos como software de análisis y hojas de cálculo para guardar la información de forma ordenada. Los datos deben ser interpretados para facilitar la toma de decisiones.
+            p.mb-0 Requiere de varios pasos, el primero es organizar los datos, luego es necesario tabularlos para convertirlos en información. En este punto también se hacen necesarios algunos recursos tecnológicos como software de análisis y hojas de cálculo para guardar la información de forma ordenada. Los datos deben ser interpretados para facilitar la toma de decisiones.
     separador.mb-5
     #t_5_5
     .titulo-segundo
       h2 5.5 Conclusiones
-    .bloque-texto-a.color-secundario.p-4.p-md-5(data-aos="slide-left")
+    .bloque-texto-a.color-tercero.p-4.p-md-5(data-aos="slide-left")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
           .bloque-texto-a__texto.p-4

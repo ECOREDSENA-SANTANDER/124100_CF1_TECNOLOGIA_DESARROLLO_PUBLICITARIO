@@ -18,11 +18,12 @@
         p La matriz de Ansoff confronta dos variables muy importantes, una interna &#60;Producto&#62; y una externa &#60;Mercados&#62;, los criterios que utiliza dicha matriz se basan en la condición de nuevos o actuales: productos del portafolio y mercados en los cuales comercializar dichos productos o servicios.
         .cajon.color-secundario.p-4
           p.mb-0 Para realizar esta matriz se necesitan dos datos importantes, el primero es el portafolio de productos de la empresa y el segundo es la descripción del mercado objetivo de la empresa. Con esta información se acude a esta herramienta para ubicar dentro de cada uno de los cuadrantes los productos o servicios que definen las estrategias a desarrollar.
-      .col-lg-3
+      .col-lg-3.mt-4.mt-lg-0
+        p #[b Ejemplo matriz de Ansoff]
         figure(data-aos="flip-left")
           img(src='@/assets/curso/img50.svg', style="max-width: 100%; margin: auto;")
           figcaption.mt-3 Fuente: SENA (2020)
-    .h4.mb-5 Estrategias de matriz de ansoff
+    .h4.mb-5 Estrategias de la matriz de Ansoff
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="slide-left")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-2.mb-4.mb-lg-0
@@ -102,6 +103,7 @@
       h2 4.2 Matriz BCG
     .row.mb-5.align-items-center
       .col-lg-2.mb-4.mb-lg-0
+        p #[b Ejemplo matriz de BCG]
         figure(data-aos="flip-right")
           img(src='@/assets/curso/img56.svg', style="max-width: 100%; margin: auto;")
           figcaption.mt-3 Fuente: SENA (2020)
@@ -126,7 +128,7 @@
     separador.mb-5
     #t_4_3
     .titulo-segundo
-      h2 4.3 Matriz competitividad
+      h2 4.3 Matriz de competitividad
     p Una de las variables externas del mercado que representa importancia para una empresa, es la competencia; ya que allí está la libertad de escoger la marca que mejor se adapte a la satisfacción de las necesidades. De ahí que el análisis a los competidores más cercanos permite el desarrollo de estrategias que adapten el producto lo mejor posible a las expectativas de los consumidores.
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 Cada factor debe calificarse de 1 a 5 para luego ser totalizado y ubicar a las empresas analizadas en un ranking que determinará el lugar que ocupa la que se está analizando frente a sus competidores y los factores que debe mejorar para su posición. Los que pueden ser objeto de análisis, son:
@@ -156,7 +158,7 @@
             | Calidad.
           li 
             i.fas.fa-caret-right(style="color: #37A3A5")
-            | Exhibicion en puntos de venta.
+            | Exhibición en puntos de venta.
           li 
             i.fas.fa-caret-right(style="color: #37A3A5")
             | Promociones.
@@ -175,10 +177,11 @@
       .col-4.ms-5
         figure(data-aos="flip-right")
           img(src='@/assets/curso/img61.svg', style="max-width: 100%; margin: auto;")
+    p.mb-5 #[b Ejemplo matriz de]
     figure.mb-5
       img(src='@/assets/curso/img62.svg', style="max-width: 100%; margin: auto;")
       figcaption.mt-3 Fuente: SENA (2020)
-    .cajon.color-primario.p-4.mb-5
+    .cajon.color-primario.p-4
       p.mb-0 En esta matriz se identifican los competidores más importantes de la empresa y sus principales debilidades y fortalezas. Los factores que se evalúen determinan la efectividad del análisis a partir de la matriz y pueden ser diferentes para cada industria.
     separador.mb-5
     #t_4_4
@@ -212,8 +215,9 @@
             p.text-center Incluye las amenazas y oportunidades. Aquí se deben tener en cuenta los factores que se desprenden de las variables externas; la competencia, los canales de distribución, el consumidor, aspectos legales, medio ambiente, factores económicos, entre otros.
     p Para realizar esta matriz es necesario hacer una descripción de cada una de las debilidades, oportunidades, fortalezas y amenazas. Lo ideal es ser lo más específico y detallista posible, no dejar de lado ningún aspecto por insignificante que parezca.
     p.mb-5 Una vez hecho el listado, es necesario calificar cada uno de los factores descritos para darles mayor o menor importancia, de esta forma se hará el cruce de factores y se definirán las estrategias.
+    p #[b Ejemplo matriz DOFA]
     figure.mb-5
-      img(src='@/assets/curso/img66.svg', style="max-width: 100%; margin: auto;")
+      img(src='@/assets/curso/img66.svg', style="max-width: 80%;")
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 Estrategias: de acuerdo con los hallazgos que se realicen en cada uno de los listados de factores, la matriz debe arrojar estrategias para la solución de problemas o para mantener y mejorar los aspectos positivos:
     .row.mb-0.mb-lg-5

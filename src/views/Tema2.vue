@@ -44,27 +44,27 @@
           .col-md-6
             figure
               img(src='@/assets/curso/img22.svg', style="max-width: 70%; margin: auto;")
-      .py-3.py-md-4(titulo="Precio")
-        .row.align-items-center
-          .col-md-6.mb-4.mb-md-0
-            h4 Precio
-            p Si bien debe responder a las necesidades, gustos, deseos, preferencias y condiciones del mercado, la empresa tiene la posibilidad de diseñar, crear, modificar y adaptar sus productos o servicios a las exigencias de sus consumidores.
-          .col-md-6
-            figure
-              img(src='@/assets/curso/img23.svg', style="max-width: 50%; margin: auto;")
       .py-3.py-md-4(titulo="Producto")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Producto
+            p Si bien debe responder a las necesidades, gustos, deseos, preferencias y condiciones del mercado, la empresa tiene la posibilidad de diseñar, crear, modificar y adaptar sus productos o servicios a las exigencias de sus consumidores.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/img24.svg', style="max-width: 50%; margin: auto;")
+      .py-3.py-md-4(titulo="Precio")
+        .row.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h4 Precio
             p Esta es una variable considerada por muchos expertos como mixta o semicontrolable; debido a que, si bien la empresa está en la libertad de asignar el precio a sus productos, hay ciertas restricciones; entre ellas, los consumidores, la competencia y algunas leyes que ejercen control sobre este tipo de factores.
           .col-md-6
             figure
-              img(src='@/assets/curso/img24.svg', style="max-width: 70%; margin: auto;")
+              img(src='@/assets/curso/img23.svg', style="max-width: 50%; margin: auto;")
       .py-3.py-md-4(titulo="Canales de distribución")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Canales de distribución
-            p Canales de distribución: la empresa, con base en el conocimiento que haya obtenido de su mercado objetivo, tiene la opción de entregar el producto de la forma más adecuada y oportuna para sus clientes basándose en que muchos puntos de venta o distribuidores tienen ciertas exigencias para la negociación.
+            p La empresa, con base en el conocimiento que haya obtenido de su mercado objetivo, tiene la opción de entregar el producto de la forma más adecuada y oportuna para sus clientes basándose en que muchos puntos de venta o distribuidores tienen ciertas exigencias para la negociación.
           .col-md-6
             figure
               img(src='@/assets/curso/img25.svg', style="max-width: 50%; margin: auto;")
@@ -105,7 +105,7 @@ export default {
       {
         titulo: 'Competencia',
         texto:
-          'El mercado está diseñado para que los consumidores tengan la libertada de escoger los productos o servicios que satisfagan sus necesidades y la competencia va a hacer todo lo que esté a su alcance para atraer la mayor cantidad de clientes; por este motivo, ninguna empresa está en la capacidad (dentro de las normas éticas) de impedirlo.',
+          'El mercado está diseñado para que los consumidores tengan la libertad de escoger los productos o servicios que satisfagan sus necesidades y la competencia va a hacer todo lo que esté a su alcance para atraer la mayor cantidad de clientes; por este motivo, ninguna empresa está en la capacidad (dentro de las normas éticas) de impedirlo.',
         imagen: require('@/assets/curso/img15.svg'),
       },
       {
@@ -117,7 +117,7 @@ export default {
       {
         titulo: 'Economía',
         texto:
-          'La economía, al ser una ciencia, tiene a su alrededor otra serie de variables que pueden afectar el trasegar comercial de la Mipyme; entre ellas, se pueden señalar: la oferta, la demanda, la devaluación de la moneda, la inflación, la deflación, entre otras.<br>Por ejemplo, la devaluación del peso frente al dólar, afecta a quienes realizar importaciones y beneficia a los exportadores.',
+          'La economía, al ser una ciencia, tiene a su alrededor otra serie de variables que pueden afectar el trasegar comercial de la Mipyme; entre ellas, se pueden señalar: la oferta, la demanda, la devaluación de la moneda, la inflación, la deflación, entre otras.<br>Por ejemplo, la devaluación del peso frente al dólar, afecta a quienes realizan importaciones y beneficia a los exportadores.',
         imagen: require('@/assets/curso/img17.svg'),
       },
       {
