@@ -32,7 +32,7 @@
         .col-lg-10
           .bloque-texto-a__texto.p-4
             p.mb-0 Teniendo en cuenta factores del mercadeo objetivo y de los productos, la empresa debe plantear qué estrategia llevará a cabo, de acuerdo con sus capacidades de producción y comercialización:
-    TabsA.color-acento-botones
+    TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 1")
         .row.align-items-center
           .col-lg-8
@@ -92,11 +92,11 @@
           .col-lg-8
             .h4 Diversificación
             p Combina tanto nuevos productos como mercados y se realiza con el fin de conquistarlos. Aquí la empresa cuenta con una infraestructura sólida que le permite ganar otras zonas geográficas y llegar a segmentos que nunca ha trabajado antes. Las actividades que se llevan a cabo en esta estrategia mezclan las que se hacen en el desarrollo de productos y de mercados.
-            .cajon.color-secundario.p-4
-              p.mb-0 Una vez se ha realizado la matriz de Ansoff, la empresa tendrá la capacidad de determinar cuál o cuáles estrategias son más convenientes para incrementar las ventas y mejorar su posicionamiento.
           .col-lg-4
             figure
               img(src='@/assets/curso/img55.svg', style="max-width: 100%; margin: auto;")
+    .cajon.color-secundario.p-4
+      p.mb-0 Una vez se ha realizado la matriz de Ansoff, la empresa tendrá la capacidad de determinar cuál o cuáles estrategias son más convenientes para incrementar las ventas y mejorar su posicionamiento.
     separador.mb-5
     #t_4_2
     .titulo-segundo
