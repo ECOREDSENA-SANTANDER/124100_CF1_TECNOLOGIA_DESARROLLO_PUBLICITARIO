@@ -155,128 +155,136 @@
               h3 Focus group
               p También llamados grupos focales o sesiones de grupo. Es tal vez la técnica más utilizada en la publicidad y consiste en realizar entrevistas grupales en sesiones que reúnen de diez a doce personas. 
               p Esta técnica permite obtener una cantidad considerable de información muy valiosa para la toma de decisiones en el desarrollo de estrategias de mercadeo y comunicación. Es muy importante contar con un guion bien estructurado que permita aplicar varias técnicas de recolección de datos, como mapas mentales, descripción de dibujos, juegos de palabras, entre otros.
-    p Con el focus group se pueden hacer estudios acerca de: actitudes, obstáculos y hábitos frente a la compra y el consumo, ideas para nuevos productos, análisis del posicionamiento de un producto, pre y pos-test de campaña.
-    p.mb-5 Para el desarrollo del focus group es necesario tener en cuenta:
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
-        ul.lista-ul--separador.mb-5
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            | Reunir personas que estén dentro del grupo objetivo.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            | Preparar muy bien el guion para el desarrollo de la sesión.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            | Adecuar un espacio con una mesa y sillas cómodas.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            | No advertir a los entrevistados del tema que se va a tratar.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            | La duración debe ser entre una y dos horas.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            | La sesión debe ser grabada para su análisis posterior.
-      .col-lg-5
-        figure(data-aos="flip-right")
-          img(src='@/assets/curso/img39.svg', style="max-width: 80%; margin: auto;")
-    p.mb-5 #[b Técnicas proyectivas:] estas técnicas son más personales y enfocan al entrevistado hacia la posición de terceras personas; es decir, se pone al investigado en la perspectiva de otros para que se exprese libremente y sin tabúes:
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
-        figure(data-aos="flip-right")
-          img(src='@/assets/curso/img40.svg', style="max-width: 80%; margin: auto;")
-      .col-lg-5
-        ul.lista-ul--separador.mb-4
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            p #[b Técnica de asociación:] el investigado relaciona unas palabras con otras, esto permite conocer su percepción acerca de determinado producto o beneficio.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            p #[b Técnicas de complementación:] consiste en que el investigado completa una frase o una historia que permite conocer sus posiciones frente a determinadas situaciones.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            p #[b Técnicas de construcción:] con esta técnica el investigado realiza dibujos, esculturas, esquemas, entre otros elementos que permiten una posterior interpretación.
-          li 
-            i.fas.fa-caret-right(style="color: #37A3A5")
-            p #[b Técnicas de expresión:] en esta técnica el investigado se expresa a través de un rol específico en una situación planteada, para luego realizar el respectivo análisis.
-        .cajon.color-secundario.p-4
-          p.mb-0 Estas técnicas son muy eficaces en el desarrollo de conceptos creativos para campañas publicitarias que se basan en insights de consumidor.
+    .row.justify-content-center.mb-5
+      .col-lg-9.p-4.bg-color1
+        p Con el focus group se pueden hacer estudios acerca de: actitudes, obstáculos y hábitos frente a la compra y el consumo, ideas para nuevos productos, análisis del posicionamiento de un producto, pre y pos-test de campaña.
+        p.mb-5 Para el desarrollo del focus group es necesario tener en cuenta:
+        .row.justify-content-center.align-items-center
+          .col-lg-6
+            ul.lista-ul--separador
+              li 
+                i.fas.fa-caret-right(style="color: #37A3A5")
+                | Reunir personas que estén dentro del grupo objetivo.
+              li 
+                i.fas.fa-caret-right(style="color: #37A3A5")
+                | Preparar muy bien el guion para el desarrollo de la sesión.
+              li 
+                i.fas.fa-caret-right(style="color: #37A3A5")
+                | Adecuar un espacio con una mesa y sillas cómodas.
+              li 
+                i.fas.fa-caret-right(style="color: #37A3A5")
+                | No advertir a los entrevistados del tema que se va a tratar.
+              li 
+                i.fas.fa-caret-right(style="color: #37A3A5")
+                | La duración debe ser entre una y dos horas.
+              li 
+                i.fas.fa-caret-right(style="color: #37A3A5")
+                | La sesión debe ser grabada para su análisis posterior.
+          .col-lg-6
+            figure(data-aos="flip-right")
+              img(src='@/assets/curso/img39.svg', style="max-width: 70%; margin: auto;")
+    .row.justify-content-center
+      .col-lg-11
+        .crd_01.mb-5
+          .crd_01__icon
+            img(src="@/assets/curso/img65.svg", alt="alt")
+          .crd_01__txt
+            .h3.mt-3 Técnicas proyectivas
+            p.mb-4 Estas técnicas son más personales y enfocan al entrevistado hacia la posición de terceras personas; es decir, se pone al investigado en la perspectiva de otros para que se exprese libremente y sin tabúes:
+            .row.align-items-center
+              .col-lg-6.mb-4.mb-lg-0
+                figure(data-aos="flip-right")
+                  img(src='@/assets/curso/img40.svg', style="width: 250px;").m-auto
+              .col-lg-6
+                ul.lista-ul--separador.mb-4
+                  li 
+                    i.fas.fa-caret-right(style="color: #37A3A5")
+                    p #[b Técnica de asociación:] el investigado relaciona unas palabras con otras, esto permite conocer su percepción acerca de determinado producto o beneficio.
+                  li 
+                    i.fas.fa-caret-right(style="color: #37A3A5")
+                    p #[b Técnicas de complementación:] consiste en que el investigado completa una frase o una historia que permite conocer sus posiciones frente a determinadas situaciones.
+                  li 
+                    i.fas.fa-caret-right(style="color: #37A3A5")
+                    p #[b Técnicas de construcción:] con esta técnica el investigado realiza dibujos, esculturas, esquemas, entre otros elementos que permiten una posterior interpretación.
+                  li 
+                    i.fas.fa-caret-right(style="color: #37A3A5")
+                    p #[b Técnicas de expresión:] en esta técnica el investigado se expresa a través de un rol específico en una situación planteada, para luego realizar el respectivo análisis.
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/IXkSw8ASkWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="slide-right")
-      .row.m-0.align-items-center.justify-content-between
-        .col-lg-10.mb-4.mb-lg-0
-          .bloque-texto-a__texto.p-4
-            p.mb-0 #[b Técnicas creativas:] estas técnicas explotan al máximo el potencial creativo y permiten el desarrollo de nuevas ideas o la generación de soluciones novedosas y eficaces a problemas o situaciones no comunes. Se deben desarrollar en espacios amplios y con tiempos que van de varias horas hasta todo un día, se requieren alternar con técnicas de relajación y juegos:
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/img41.svg', style="max-width: 100%; margin: auto;")
-    .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0(data-aos="flip-right")
-        figure
-          img(src='@/assets/curso/img42.svg', style="max-width: 80%; margin: auto;")
-      .col-lg-8
-        .row.align-items-center
-          .col-auto.d-inline-flex.mb-4
-            figure
-              img(src='@/assets/curso/img43.svg', style="max-width: 100%; margin: auto;")
-          .col
-            p.mb-0 #[b Brainstorming:] consiste en generar ideas durante un tiempo prolongado y en torno a un tema central. Al inicio no se debe rechazar ninguna, todas requieren ser apuntadas para luego seleccionar las más convenientes y entre todos hacer un desarrollo óptimo de la de idea.
-          .hr1
-        .row.align-items-center.my-4
-          .col-auto.d-inline-flex.mb-4
-            figure
-              img(src='@/assets/curso/img44.svg', style="max-width: 100%; margin: auto;")
-          .col
-            p.mb-0 #[b Cuento de hadas:] consiste en comenzar una historia conocida, uno de los cuentos clásicos y pedir a los participantes que la adecúen cambiando elementos o situaciones para adaptarlas a determinado producto o servicio.
-          .hr1
-        .row.align-items-center.mt-4
-          .col-auto.d-inline-flex.mb-4
-            figure
-              img(src='@/assets/curso/img45.svg', style="max-width: 100%; margin: auto;")
-          .col
-            p.mb-0 #[b Observación:] consiste en observar el comportamiento de uno o varios individuos, con o sin el consentimiento de ellos. Esta técnica es útil para el análisis del comportamiento en el uso o consumo de un producto, en el acto de compra o en el acceso a un servicio.
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .cajon.color-primario.p-4
-          p.mb-0 Es también una técnica cuantitativa, ya que puede arrojar datos descriptivos con base en objetivos concretos y con metodologías estructuradas de datos específicos con muestreos definidos. Sin embargo, su uso cualitativo es muy importante y eficaz debido a que se puede hacer libremente y generar datos informales que den resultados inesperados. Hoy en día, se puede hacer observación directa de la percepción del comprador y del espectador de anuncios publicitarios a través del Eyetracking, un sistema que graba lo que el investigado ve, al mismo tiempo que analiza el movimiento y comportamiento de sus ojos, esto permite conocer las zonas, elementos y características que la persona ve con mayor énfasis en una góndola o un aviso publicitario.
+    .cajon.color-secundario.p-4.mb-5
+      p.mb-0 Estas técnicas son muy eficaces en el desarrollo de conceptos creativos para campañas publicitarias que se basan en insights de consumidor.
+    .row.justify-content-center
+      .col-lg-11
+        .crd_01.mb-5
+          .crd_01__icon
+            img(src="@/assets/curso/img78.svg", alt="alt")
+          .crd_01__txt
+            .h3.mt-3 Técnicas creativas
+            p.mb-4 Estas técnicas explotan al máximo el potencial creativo y permiten el desarrollo de nuevas ideas o la generación de soluciones novedosas y eficaces a problemas o situaciones no comunes. Se deben desarrollar en espacios amplios y con tiempos que van de varias horas hasta todo un día, se requieren alternar con técnicas de relajación y juegos:
+            .row.align-items-start.mb-4
+              .col-lg-5.mb-4.mb-lg-0
+                figure(data-aos="flip-right")
+                  img(src='@/assets/curso/img79.svg', style="width: 250px;").m-auto
+              .col-lg-7
+                .row.align-items-center
+                  .col-auto.d-inline-flex.mb-4
+                    figure
+                      img(src='@/assets/curso/img43.svg', style="max-width: 100%; margin: auto;")
+                  .col
+                    p #[b Brainstorming:] consiste en generar ideas durante un tiempo prolongado y en torno a un tema central. Al inicio no se debe rechazar ninguna, todas requieren ser apuntadas para luego seleccionar las más convenientes y entre todos hacer un desarrollo óptimo de la de idea.
+                  .hr1
+                .row.align-items-center.my-4
+                  .col-auto.d-inline-flex.mb-4
+                    figure
+                      img(src='@/assets/curso/img44.svg', style="max-width: 100%; margin: auto;")
+                  .col
+                    p #[b Cuento de hadas:] consiste en comenzar una historia conocida, uno de los cuentos clásicos y pedir a los participantes que la adecúen cambiando elementos o situaciones para adaptarlas a determinado producto o servicio.
+                  .hr1
+                .row.align-items-center.mt-4
+                  .col-auto.d-inline-flex.mb-4
+                    figure
+                      img(src='@/assets/curso/img45.svg', style="max-width: 100%; margin: auto;")
+                  .col
+                    p #[b Observación:] consiste en observar el comportamiento de uno o varios individuos, con o sin el consentimiento de ellos. Esta técnica es útil para el análisis del comportamiento en el uso o consumo de un producto, en el acto de compra o en el acceso a un servicio.
+            .cajon.color-primario.p-4.mb-5
+              p.mb-0 Es también una técnica cuantitativa, ya que puede arrojar datos descriptivos con base en objetivos concretos y con metodologías estructuradas de datos específicos con muestreos definidos. Sin embargo, su uso cualitativo es muy importante y eficaz debido a que se puede hacer libremente y generar datos informales que den resultados inesperados. Hoy en día, se puede hacer observación directa de la percepción del comprador y del espectador de anuncios publicitarios a través del Eyetracking, un sistema que graba lo que el investigado ve, al mismo tiempo que analiza el movimiento y comportamiento de sus ojos, esto permite conocer las zonas, elementos y características que la persona ve con mayor énfasis en una góndola o un aviso publicitario.
+            .hr1
+            .row.align-items-center.my-4
+              .col-auto.d-inline-flex.mb-4
+                figure
+                  img(src='@/assets/curso/img80.svg', style="max-width: 100%; margin: auto;")
+              .col
+                p #[b Cliente incógnito:] esta técnica permite realizar observación sobre el personal que tiene contacto directo con los clientes y compradores. El investigador debe comportarse como un cliente real y simular una compra o el uso de un servicio, este debe observar basado en unos criterios preestablecidos el comportamiento del personal de la empresa; también con las tecnologías actuales es posible realizar grabación del evento sin que el investigado se entere.
+            .cajon.color-secundario.p-4
+              p.mb-0 Esta técnica se utiliza para mejorar la calidad del servicio, motivar a los empleados, evaluar desempeños, reducir incidentes y quejas, evaluar campañas y promociones realizadas en un punto de venta.
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/b_VTeeBTgtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.mb-5.align-items-center
-      .col-lg-8.mb-4.mb-lg-0
-        p #[b Cliente incógnito:] esta técnica permite realizar observación sobre el personal que tiene contacto directo con los clientes y compradores. El investigador debe comportarse como un cliente real y simular una compra o el uso de un servicio, este debe observar basado en unos criterios preestablecidos el comportamiento del personal de la empresa; también con las tecnologías actuales es posible realizar grabación del evento sin que el investigado se entere.
-        .cajon.color-secundario.p-4
-          p.mb-0 Esta técnica se utiliza para mejorar la calidad del servicio, motivar a los empleados, evaluar desempeños, reducir incidentes y quejas, evaluar campañas y promociones realizadas en un punto de venta.
-      .col-lg-4
-        figure(data-aos="flip-left")
-          img(src='@/assets/curso/img46.svg', style="max-width: 80%; margin: auto;")
-    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="slide-left")
-      .row.m-0.align-items-center.justify-content-between
-        .col-lg-10.mb-4.mb-lg-0
-          .bloque-texto-a__texto.p-4
-            p.mb-0 #[b Técnicas online:] con la llegada del internet y las tecnologías de comunicación digital, es muy posible realizar investigaciones online con la misma efectividad e incluso con mayores resultados por contar con un muestreo mucho más amplio y diverso:
-        .col-lg-2
-          figure
-            img(src='@/assets/curso/img47.svg', style="max-width: 100%; margin: auto;")
-    .row.justify-content-center.mb-5
-      .col-lg-8
-        .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img48.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              h3 Sesiones de grupo online
-              p Tiene el mismo concepto de la sesión de grupo presencial, con la variante que se puede realizar con personas que estén en cualquier lugar del mundo y permite la grabación en varios formatos.
-        .tarjeta-avatar-b
-          img(src='@/assets/curso/img49.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              h3 Encuestas
-              p Es una técnica muy conocida, pero al mismo tiempo eficiente; permite realizar formularios que se pueden entregar a través de un enlace a un número indeterminado de personas que hagan parte del grupo objetivo, con la posibilidad de responder en el momento que el investigado prefiera y tenga disponibilidad de tiempo. La información es almacenada en forma de base de datos y genera análisis estadísticos inmediatos, gracias a los cálculos matemáticos generados por computadoras.
-    .cajon.color-secundario.p-4
-      p.mb-0 El uso de las diferentes técnicas de recolección de datos depende del tipo de información que se requiera y de la calidad de la misma para la toma de decisiones y el desarrollo de estrategias efectivas de comercialización, promoción o posicionamiento.
+    .row.justify-content-center
+      .col-lg-11
+        .crd_01.mb-5
+          .crd_01__icon
+            img(src="@/assets/curso/img81.svg", alt="alt")
+          .crd_01__txt
+            .h3.mt-3 Técnicas online
+            p.mb-4 Con la llegada del internet y las tecnologías de comunicación digital, es muy posible realizar investigaciones online con la misma efectividad e incluso con mayores resultados por contar con un muestreo mucho más amplio y diverso:
+            .row.justify-content-center.mb-5
+              .col-lg-10
+                .tarjeta-avatar-b.mb-5
+                  img(src='@/assets/curso/img48.svg' alt='AvatarTop')
+                  .tarjeta.tarjeta--azul(style="background-color: #FFFFFF !important")
+                    .p-4
+                      h3 Sesiones de grupo online
+                      p Tiene el mismo concepto de la sesión de grupo presencial, con la variante que se puede realizar con personas que estén en cualquier lugar del mundo y permite la grabación en varios formatos.
+                .tarjeta-avatar-b
+                  img(src='@/assets/curso/img49.svg' alt='AvatarTop')
+                  .tarjeta.tarjeta--azul(style="background-color: #FFFFFF !important")
+                    .p-4
+                      h3 Encuestas
+                      p Es una técnica muy conocida, pero al mismo tiempo eficiente; permite realizar formularios que se pueden entregar a través de un enlace a un número indeterminado de personas que hagan parte del grupo objetivo, con la posibilidad de responder en el momento que el investigado prefiera y tenga disponibilidad de tiempo. La información es almacenada en forma de base de datos y genera análisis estadísticos inmediatos, gracias a los cálculos matemáticos generados por computadoras.
+            .cajon.color-primario.p-4
+              p.mb-0 El uso de las diferentes técnicas de recolección de datos depende del tipo de información que se requiera y de la calidad de la misma para la toma de decisiones y el desarrollo de estrategias efectivas de comercialización, promoción o posicionamiento.
 
 </template>
 

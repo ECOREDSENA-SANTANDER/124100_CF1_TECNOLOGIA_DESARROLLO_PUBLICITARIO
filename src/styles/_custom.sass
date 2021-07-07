@@ -24,7 +24,6 @@
 
 .hr1
   border: 1px solid #CCCCCC
-  margin-left: 10%
 
 .tarjeta--azul
   background-color: #FAFAFA
@@ -56,3 +55,42 @@
 
 .tabs-c.color-primario .tabs-c__tab--active
   font-weight: bold
+
+.bg-color1
+  background-color: #FAFAFA
+  border-radius: 20px
+
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+
+.crd_01 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  //background-color: pink
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #FAFAFA
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2  

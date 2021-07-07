@@ -33,7 +33,7 @@
           .bloque-texto-a__texto.p-4
             p.mb-0 Teniendo en cuenta factores del mercadeo objetivo y de los productos, la empresa debe plantear qué estrategia llevará a cabo, de acuerdo con sus capacidades de producción y comercialización:
     TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 1")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Penetración del mercado")
         .row.align-items-center
           .col-lg-8
             .h4 Penetración del mercado
@@ -51,7 +51,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/img52.svg', style="max-width: 100%; margin: auto;")
-      .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 2")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Desarrollo de mercados")
         .row.align-items-center
           .col-lg-8
             .h4 Desarrollo de mercados
@@ -69,7 +69,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/img53.svg', style="max-width: 100%; margin: auto;")
-      .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 3")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Desarrollo de productos")
         .row.align-items-center
           .col-lg-8
             .h4 Desarrollo de productos
@@ -87,7 +87,7 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/img54.svg', style="max-width: 100%; margin: auto;")
-      .tarjeta.color-acento-botones--borde.p-4(titulo="PASO 4")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Diversificación")
         .row.align-items-center
           .col-lg-8
             .h4 Diversificación
@@ -177,7 +177,7 @@
       .col-4.ms-5
         figure(data-aos="flip-right")
           img(src='@/assets/curso/img61.svg', style="max-width: 100%; margin: auto;")
-    p.mb-5 #[b Ejemplo matriz de]
+    p.mb-5 #[b Ejemplo matriz de competitividad]
     figure.mb-5
       img(src='@/assets/curso/img62.svg', style="max-width: 100%; margin: auto;")
       figcaption.mt-3 Fuente: SENA (2020)
@@ -217,7 +217,7 @@
     p.mb-5 Una vez hecho el listado, es necesario calificar cada uno de los factores descritos para darles mayor o menor importancia, de esta forma se hará el cruce de factores y se definirán las estrategias.
     p #[b Ejemplo matriz DOFA]
     figure.mb-5
-      img(src='@/assets/curso/img66.svg', style="max-width: 80%;")
+      img(src='@/assets/curso/img66.svg', style="max-width: 95%;").m-auto
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 Estrategias: de acuerdo con los hallazgos que se realicen en cada uno de los listados de factores, la matriz debe arrojar estrategias para la solución de problemas o para mantener y mejorar los aspectos positivos:
     .row.mb-0.mb-lg-5
