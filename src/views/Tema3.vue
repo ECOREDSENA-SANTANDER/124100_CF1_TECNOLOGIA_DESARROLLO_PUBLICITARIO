@@ -61,7 +61,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/FDi2VkvRdZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Si bien los datos están a la orden del día gracias a los medios de comunicación digital, es necesario recurrir a diferentes fuentes para obtener la mejor y mayor información posible para minimizar el riesgo en la toma de decisiones y el planteamiento de las estrategias.
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-6
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img33.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
@@ -140,7 +140,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/rAqeHpglhc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 La investigación cualitativa recoge información que tiene como base aspectos psicológicos, sociológicos y antropológicos; de ahí que las técnicas de recolección de datos se enfoquen en el ser y en el análisis en profundidad del mismo. Para obtener datos cualitativos se utilizan los siguientes métodos:
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-6
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/img37.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
@@ -270,7 +270,7 @@
             .h3.mt-3 Técnicas online
             p.mb-4 Con la llegada del internet y las tecnologías de comunicación digital, es muy posible realizar investigaciones online con la misma efectividad e incluso con mayores resultados por contar con un muestreo mucho más amplio y diverso:
             .row.justify-content-center.mb-5
-              .col-lg-10
+              .col-lg-7
                 .tarjeta-avatar-b.mb-5
                   img(src='@/assets/curso/img48.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--azul(style="background-color: #FFFFFF !important")

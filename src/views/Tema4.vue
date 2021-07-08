@@ -216,8 +216,13 @@
     p Para realizar esta matriz es necesario hacer una descripción de cada una de las debilidades, oportunidades, fortalezas y amenazas. Lo ideal es ser lo más específico y detallista posible, no dejar de lado ningún aspecto por insignificante que parezca.
     p.mb-5 Una vez hecho el listado, es necesario calificar cada uno de los factores descritos para darles mayor o menor importancia, de esta forma se hará el cruce de factores y se definirán las estrategias.
     p #[b Ejemplo matriz DOFA]
-    figure.mb-5
-      img(src='@/assets/curso/img66.svg', style="max-width: 95%;").m-auto
+    .row.align-items-center
+      .col-lg-6
+        figure.mb-5
+          img(src='@/assets/curso/img66.svg', style="max-width: 75%;").m-auto
+      .col-lg-6
+        figure.mb-5
+          img(src='@/assets/curso/img82.svg', style="max-width: 60%;").m-auto
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 Estrategias: de acuerdo con los hallazgos que se realicen en cada uno de los listados de factores, la matriz debe arrojar estrategias para la solución de problemas o para mantener y mejorar los aspectos positivos:
     .row.mb-0.mb-lg-5
