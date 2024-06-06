@@ -1,96 +1,39 @@
-.bloque-texto-a.color-secundario
-  background-color: #F5F5F8
-
-.bloque-texto-a.color-secundario::before
-  background-color: #7D6EB2
-
-.cajon.color-primario
-  background-color: #DEF2F4
-
-.cajon.color-primario::before
-  background-color: #26AAB7
-
-.cajon.color-secundario
-  background-color: #ECE9F4
-
-.cajon.color-secundario::before
-  background-color: #7D6EB2
-
-.bloque-texto-a
-  background-color: #7D6EB2
-
-.bloque-texto-a:before
-  background-color: #ECE9F4
-
-.hr1
-  border: 1px solid #CCCCCC
-
-.tarjeta--azul
-  background-color: #FAFAFA
-
-.tabs-a.color-acento-botones .tabs-a__tab:hover, .tabs-a.color-acento-botones .tabs-a__tab:active, .tabs-a.color-acento-botones .tabs-a__tab:focus
-  background-color: #37A3A5
-
-.tabs-a.color-acento-botones .tabs-a__tab__selected
-  background-color: #37A3A5
-
-.tabs-a.color-acento-botones .tabs-a__tab__selected::before
-  background-color: #37A3A5
-
-.tarjeta.color-acento-botones--borde
-  border: solid 4px #E8E8E8
-
-.tabs-a__tab
-  background-color: #E8E8E8
-
-.tarjeta.color-primario
-  background-color: #7D6EB2
-
-.tarjeta.color-acento-botones
-  background-color: #FAFAFA
-
-.banner-interno__titulo__icono
-  i
-    color: #FFFFFF !important
-
-.tabs-c.color-primario .tabs-c__tab--active
-  font-weight: bold
-
-.bg-color1
-  background-color: #FAFAFA
-  border-radius: 20px
-
-
-$crd-icon-size: 120px
-$crd-padding: 1.5rem
-$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
-
-.crd_01 
-  position: relative
-  display: flex
-  flex-direction: row
-  justify-content: start
-  align-items: center 
-  padding: 1.5rem 1.5rem 1.5rem 0   
-  z-index: 1
-  //background-color: pink
-  &::before
-    content: ""
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 0
-    right: 0
-    width: $crd-width
-    height: 100%    
-    background-color: #FAFAFA
-    border-radius: 15px
-    z-index: -1
-  &__icon
-    order: 1
-    flex-basis: auto
-    width: $crd-icon-size
-    margin-right: 15px
-    img   
-      width: $crd-icon-size
-  &__txt
-    flex: 1 
-    order: 2  
+    top: 20%
+    left: -10%
+
+  &-2
+    animation: float2 4.5s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: -10%
+
+
+@keyframes float1
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateY(30px)
+  100%
+    transform: translateY(0px)
+
+
+.banner-principal__img 
+  padding-bottom: 0 !important;
+.banner-principal__row .banner-principal__img 
+    padding-right: 0 !important;
+    width: 30%;
+    
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: $color-sistema-texto !important  
+
+.titulo-principal__numero
+    background-color: $color-secundario  !important

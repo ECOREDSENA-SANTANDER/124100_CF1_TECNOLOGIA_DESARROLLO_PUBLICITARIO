@@ -21,14 +21,14 @@
       .col-lg-3.mt-4.mt-lg-0
         p #[b Ejemplo matriz de Ansoff]
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/img50.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
           figcaption.mt-3 Fuente: SENA (2020)
     .h4.mb-5 Estrategias de la matriz de Ansoff
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5(data-aos="slide-left")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-2.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/img51.svg', style="max-width: 100%; margin: auto;")
+            img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
         .col-lg-10
           .bloque-texto-a__texto.p-4
             p.mb-0 Teniendo en cuenta factores del mercadeo objetivo y de los productos, la empresa debe plantear qué estrategia llevará a cabo, de acuerdo con sus capacidades de producción y comercialización:
@@ -50,7 +50,7 @@
                 | Incentivar el aumento del consumo de los productos y/o servicios.
           .col-lg-4
             figure
-              img(src='@/assets/curso/img52.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Desarrollo de mercados")
         .row.align-items-center
           .col-lg-8
@@ -68,7 +68,7 @@
                 | Realizar estrategias de comunicación en otras zonas geográficas.
           .col-lg-4
             figure
-              img(src='@/assets/curso/img53.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Desarrollo de productos")
         .row.align-items-center
           .col-lg-8
@@ -86,7 +86,7 @@
                 | Crear productos con nuevos diseños o presentaciones.
           .col-lg-4
             figure
-              img(src='@/assets/curso/img54.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Diversificación")
         .row.align-items-center
           .col-lg-8
@@ -94,7 +94,7 @@
             p Combina tanto nuevos productos como mercados y se realiza con el fin de conquistarlos. Aquí la empresa cuenta con una infraestructura sólida que le permite ganar otras zonas geográficas y llegar a segmentos que nunca ha trabajado antes. Las actividades que se llevan a cabo en esta estrategia mezclan las que se hacen en el desarrollo de productos y de mercados.
           .col-lg-4
             figure
-              img(src='@/assets/curso/img55.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
     .cajon.color-secundario.p-4
       p.mb-0 Una vez se ha realizado la matriz de Ansoff, la empresa tendrá la capacidad de determinar cuál o cuáles estrategias son más convenientes para incrementar las ventas y mejorar su posicionamiento.
     separador.mb-5
@@ -105,7 +105,7 @@
       .col-lg-2.mb-4.mb-lg-0
         p #[b Ejemplo matriz de BCG]
         figure(data-aos="flip-right")
-          img(src='@/assets/curso/img56.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
           figcaption.mt-3 Fuente: SENA (2020)
       .col-lg-10
         p Es también llamada Matriz del Grupo Consultor de Boston. Está constituida de cuatro secciones representadas mediante gráficos que le otorgan a cada producto una característica particular. Los criterios para la asignación de una figura a cada producto son: el crecimiento de la industria y la participación en el mercado de cada producto o servicio. Es importante tener en cuenta que antes de llevarla a cabo, ambos datos deben estar corroborados.
@@ -114,16 +114,16 @@
     .row.mb-5
       .col-6.col-lg-3
         figure
-          img(src='@/assets/curso/img57.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .col-6.col-lg-3
         figure
-          img(src='@/assets/curso/img58.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .col-6.col-lg-3
         figure
-          img(src='@/assets/curso/img59.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .col-6.col-lg-3
         figure
-          img(src='@/assets/curso/img60.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
     p Esta matriz proporciona una visión estratégica de la empresa a nivel de su portafolio de productos en su totalidad, haciendo un diagnóstico del mercado y el nivel de ventas de los productos.
     separador.mb-5
     #t_4_3
@@ -176,10 +176,10 @@
             | Línea de productos.
       .col-4.ms-5
         figure(data-aos="flip-right")
-          img(src='@/assets/curso/img61.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
     p.mb-5 #[b Ejemplo matriz de competitividad]
     figure.mb-5
-      img(src='@/assets/curso/img62.svg', style="max-width: 100%; margin: auto;")
+      img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       figcaption.mt-3 Fuente: SENA (2020)
     .cajon.color-primario.p-4
       p.mb-0 En esta matriz se identifican los competidores más importantes de la empresa y sus principales debilidades y fortalezas. Los factores que se evalúen determinan la efectividad del análisis a partir de la matriz y pueden ser diferentes para cada industria.
@@ -191,7 +191,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-2.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/img63.svg', style="max-width: 100%; margin: auto;")
+            img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
         .col-lg-10
           .bloque-texto-a__texto.p-4
             p.mb-0 El análisis DOFA o FODA, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
@@ -202,7 +202,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/img64.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/img1.svg', alt='Texto que describa la imagen')
               
             h2.text-center Análisis interno
             p.text-center Comprende las debilidades y las fortalezas. En este análisis se tienen en cuenta las derivaciones de las variables internas estudiadas anteriormente; por ejemplo, se pueden analizar los procesos de producción, las estrategias de distribución, las políticas de precios, la promoción, el servicio al cliente o el personal que opera en la empresa.
@@ -210,7 +210,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/img65.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/img1.svg', alt='Texto que describa la imagen')
             h2.text-center Análisis externo
             p.text-center Incluye las amenazas y oportunidades. Aquí se deben tener en cuenta los factores que se desprenden de las variables externas; la competencia, los canales de distribución, el consumidor, aspectos legales, medio ambiente, factores económicos, entre otros.
     p Para realizar esta matriz es necesario hacer una descripción de cada una de las debilidades, oportunidades, fortalezas y amenazas. Lo ideal es ser lo más específico y detallista posible, no dejar de lado ningún aspecto por insignificante que parezca.
@@ -219,37 +219,37 @@
     .row.align-items-center
       .col-lg-6
         figure.mb-5
-          img(src='@/assets/curso/img66.svg', style="max-width: 75%;").m-auto
+          img(src='@/assets/curso/img1.svg', style="max-width: 75%;").m-auto
       .col-lg-6
         figure.mb-5
-          img(src='@/assets/curso/img82.svg', style="max-width: 60%;").m-auto
+          img(src='@/assets/curso/img1.svg', style="max-width: 60%;").m-auto
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 Estrategias: de acuerdo con los hallazgos que se realicen en cada uno de los listados de factores, la matriz debe arrojar estrategias para la solución de problemas o para mantener y mejorar los aspectos positivos:
     .row.mb-0.mb-lg-5
       .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/img67.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones
             .p-4
               h2.text-center DO
               p.text-center Las debilidades halladas en la matriz deben ser contrastadas con oportunidades del mercado a través de tácticas internas.
       .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/img68.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones
             .p-4
               h2.text-center FO
               p Las oportunidades del mercado que la empresa haya identificado deben ser aprovechadas a través de las fortalezas que presenta.
       .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/img69.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones
             .p-4
               h2.text-center DA
               p Las debilidades y amenazas que la empresa presenta requieren de estrategias para ser superadas.
       .col-md-6.col-lg-3.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/img69.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.color-acento-botones
             .p-4
               h2.text-center FA

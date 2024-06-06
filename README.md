@@ -1,8 +1,8 @@
-# **Investigación Publicitaria**
+# **sena-base-2021 v6.2.1**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/522306_CF1_TECNOLOGIA_DESARROLLO_PUBLICITARIO/](https://ecored-sena.github.io/522306_CF1_TECNOLOGIA_DESARROLLO_PUBLICITARIO/)
+[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
 
 #
 
@@ -61,3 +61,6 @@ npm run lint
 ![instrucciones despues del primer push](src/assets/template/pasos.jpg 'Title')
 
 #
+
+## **Documentacion AOS**
+[https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)

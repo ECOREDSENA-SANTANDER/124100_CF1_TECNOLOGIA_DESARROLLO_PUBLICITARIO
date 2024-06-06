@@ -12,12 +12,12 @@ const router = new VueRouter({
       name: 'inicio',
       component: Inicio,
     },
-    //{
-    //  path: '/introduccion',
-    //  name: 'introduccion',
-    //  component: () =>
-    //    import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
-    //},
+    {
+      path: '/introduccion',
+      name: 'introduccion',
+      component: () =>
+        import(/* webpackChunkName: "intro" */ '../views/Introduccion.vue'),
+    },
     {
       path: '/curso',
       name: 'curso',
@@ -59,12 +59,6 @@ const router = new VueRouter({
       ],
     },
     {
-      path: '/actividad',
-      name: 'actividad',
-      component: () =>
-        import(/* webpackChunkName: "actividad" */ '../views/Actividad.vue'),
-    },
-    {
       path: '/glosario',
       name: 'glosario',
       component: () =>
@@ -87,6 +81,12 @@ const router = new VueRouter({
         import(
           /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
         ),
+    },
+    {
+      path: '/sintesis',
+      name: 'sintesis',
+      component: () =>
+        import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
     },
     {
       path: '/creditos',

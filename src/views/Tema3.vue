@@ -11,7 +11,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-2.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/img28.svg', style="max-width: 100%; margin: auto;")
+            img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
         .col-lg-10
           .bloque-texto-a__texto.p-4
             p.mb-0 Teniendo claras las variables internas y externas pertinentes a la empresa, es indispensable la recolección de información referente a cada una de ellas, esto con el fin de tener datos para alimentar el brief y tomar decisiones en relación con las estrategias de comunicación y promoción.
@@ -28,26 +28,26 @@
         .row.align-items-center
           .col-auto.d-inline-flex.mb-4
             figure
-              img(src='@/assets/curso/img29.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
           .col
             p.mb-0 #[b Exploratoria:] es utilizada para recolectar datos de temas de los que no hay muchos disponibles, es una investigación más informal por ser una primera toma de información.
           .hr1
         .row.align-items-center.my-4
           .col-auto.d-inline-flex.mb-4
             figure
-              img(src='@/assets/curso/img30.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
           .col
             p.mb-0 #[b Descriptiva:] trata un tema especial en un momento determinado o en un lapso específico; como su nombre lo indica, describe aspectos en relación con variables del mercado.
           .hr1
         .row.align-items-center.mt-4
           .col-auto.d-inline-flex.mb-4
             figure
-              img(src='@/assets/curso/img31.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
           .col
             p.mb-0 #[b Causal:] es una investigación experimental, analiza causas específicas de un caso en particular; por ejemplo, las razones del bajo nivel en ventas de un producto.
       .col-lg-4(data-aos="flip-left")
         figure
-          img(src='@/assets/curso/img32.svg', style="max-width: 50%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 50%; margin: auto;")
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4
@@ -63,14 +63,14 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img33.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
               h2 Fuentes secundarias
               p Estas fuentes contienen datos e información que ya ha sido recopilada y generada anteriormente con otros fines; por ejemplo, investigaciones o proyectos anteriores.
               p Las fuentes secundarias pueden ser internas; es decir, los datos que se encuentran en la misma empresa en las diferentes dependencias: contabilidad, administración, mercadeo, ventas, etc. También pueden ser externas, información que se puede obtener de fuentes ajenas a la entidad, por ejemplo: bases de datos, agremiaciones, instituciones del Estado, publicaciones, sitios en internet, libros, revistas, entre otros.
         .tarjeta-avatar-b
-          img(src='@/assets/curso/img34.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
               h2 Fuentes primarias
@@ -82,7 +82,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/img35.svg', style="max-width: 100%; margin: auto;")
+          img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
       .col-lg-8
         p #[b Cuantitativa:] es la que se desarrolla en torno al ¿qué?, ¿quién?, ¿dónde? y ¿cómo? Esto hace que la investigación cuantitativa se asocie a los tipos descriptivo y causal.
         .cajon.color-primario.p-4.mb-4
@@ -130,7 +130,7 @@
                 | Pre y pos-test.
           .col-lg-6
             figure(data-aos="flip-right")
-              img(src='@/assets/curso/img36.svg', style="max-width: 100%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
     separador.mb-5
     #t_3_3
     .titulo-segundo
@@ -142,14 +142,14 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .tarjeta-avatar-b.mb-5
-          img(src='@/assets/curso/img37.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
               h3 Entrevista en profundidad
               p Es una técnica que consiste en una entrevista personal entre investigador y la fuente primaria de información; tiene como requisito fundamental el desarrollo con la ayuda de una guía que se realiza en un tiempo estimado de media a una hora, el objetivo es obtener la mayor cantidad de datos posibles. 
               p Esta técnica se utiliza para: obtener información sobre creencias, motivaciones o actitudes frente a determinado tema, para indagar sobre temas personales que no se hablarían en sesiones de grupo o para inquirir sobre temas profesionales con expertos. Estas entrevistas deben ser grabadas y transcritas completamente para su estudio.
         .tarjeta-avatar-b
-          img(src='@/assets/curso/img38.svg' alt='AvatarTop')
+          img(src='@/assets/curso/img1.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
               h3 Focus group
@@ -182,19 +182,19 @@
                 | La sesión debe ser grabada para su análisis posterior.
           .col-lg-6
             figure(data-aos="flip-right")
-              img(src='@/assets/curso/img39.svg', style="max-width: 70%; margin: auto;")
+              img(src='@/assets/curso/img1.svg', style="max-width: 70%; margin: auto;")
     .row.justify-content-center
       .col-lg-11
         .crd_01.mb-5
           .crd_01__icon
-            img(src="@/assets/curso/img65.svg", alt="alt")
+            img(src="@/assets/curso/img1.svg", alt="alt")
           .crd_01__txt
             .h3.mt-3 Técnicas proyectivas
             p.mb-4 Estas técnicas son más personales y enfocan al entrevistado hacia la posición de terceras personas; es decir, se pone al investigado en la perspectiva de otros para que se exprese libremente y sin tabúes:
             .row.align-items-center
               .col-lg-6.mb-4.mb-lg-0
                 figure(data-aos="flip-right")
-                  img(src='@/assets/curso/img40.svg', style="width: 250px;").m-auto
+                  img(src='@/assets/curso/img1.svg', style="width: 250px;").m-auto
               .col-lg-6
                 ul.lista-ul--separador.mb-4
                   li 
@@ -218,33 +218,33 @@
       .col-lg-11
         .crd_01.mb-5
           .crd_01__icon
-            img(src="@/assets/curso/img78.svg", alt="alt")
+            img(src="@/assets/curso/img1.svg", alt="alt")
           .crd_01__txt
             .h3.mt-3 Técnicas creativas
             p.mb-4 Estas técnicas explotan al máximo el potencial creativo y permiten el desarrollo de nuevas ideas o la generación de soluciones novedosas y eficaces a problemas o situaciones no comunes. Se deben desarrollar en espacios amplios y con tiempos que van de varias horas hasta todo un día, se requieren alternar con técnicas de relajación y juegos:
             .row.align-items-start.mb-4
               .col-lg-5.mb-4.mb-lg-0
                 figure(data-aos="flip-right")
-                  img(src='@/assets/curso/img79.svg', style="width: 250px;").m-auto
+                  img(src='@/assets/curso/img1.svg', style="width: 250px;").m-auto
               .col-lg-7
                 .row.align-items-center
                   .col-auto.d-inline-flex.mb-4
                     figure
-                      img(src='@/assets/curso/img43.svg', style="max-width: 100%; margin: auto;")
+                      img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
                   .col
                     p #[b Brainstorming:] consiste en generar ideas durante un tiempo prolongado y en torno a un tema central. Al inicio no se debe rechazar ninguna, todas requieren ser apuntadas para luego seleccionar las más convenientes y entre todos hacer un desarrollo óptimo de la de idea.
                   .hr1
                 .row.align-items-center.my-4
                   .col-auto.d-inline-flex.mb-4
                     figure
-                      img(src='@/assets/curso/img44.svg', style="max-width: 100%; margin: auto;")
+                      img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
                   .col
                     p #[b Cuento de hadas:] consiste en comenzar una historia conocida, uno de los cuentos clásicos y pedir a los participantes que la adecúen cambiando elementos o situaciones para adaptarlas a determinado producto o servicio.
                   .hr1
                 .row.align-items-center.mt-4
                   .col-auto.d-inline-flex.mb-4
                     figure
-                      img(src='@/assets/curso/img45.svg', style="max-width: 100%; margin: auto;")
+                      img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
                   .col
                     p #[b Observación:] consiste en observar el comportamiento de uno o varios individuos, con o sin el consentimiento de ellos. Esta técnica es útil para el análisis del comportamiento en el uso o consumo de un producto, en el acto de compra o en el acceso a un servicio.
             .cajon.color-primario.p-4.mb-5
@@ -253,7 +253,7 @@
             .row.align-items-center.my-4
               .col-auto.d-inline-flex.mb-4
                 figure
-                  img(src='@/assets/curso/img80.svg', style="max-width: 100%; margin: auto;")
+                  img(src='@/assets/curso/img1.svg', style="max-width: 100%; margin: auto;")
               .col
                 p #[b Cliente incógnito:] esta técnica permite realizar observación sobre el personal que tiene contacto directo con los clientes y compradores. El investigador debe comportarse como un cliente real y simular una compra o el uso de un servicio, este debe observar basado en unos criterios preestablecidos el comportamiento del personal de la empresa; también con las tecnologías actuales es posible realizar grabación del evento sin que el investigado se entere.
             .cajon.color-secundario.p-4
@@ -265,20 +265,20 @@
       .col-lg-11
         .crd_01.mb-5
           .crd_01__icon
-            img(src="@/assets/curso/img81.svg", alt="alt")
+            img(src="@/assets/curso/img1.svg", alt="alt")
           .crd_01__txt
             .h3.mt-3 Técnicas online
             p.mb-4 Con la llegada del internet y las tecnologías de comunicación digital, es muy posible realizar investigaciones online con la misma efectividad e incluso con mayores resultados por contar con un muestreo mucho más amplio y diverso:
             .row.justify-content-center.mb-5
               .col-lg-7
                 .tarjeta-avatar-b.mb-5
-                  img(src='@/assets/curso/img48.svg' alt='AvatarTop')
+                  img(src='@/assets/curso/img1.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--azul(style="background-color: #FFFFFF !important")
                     .p-4
                       h3 Sesiones de grupo online
                       p Tiene el mismo concepto de la sesión de grupo presencial, con la variante que se puede realizar con personas que estén en cualquier lugar del mundo y permite la grabación en varios formatos.
                 .tarjeta-avatar-b
-                  img(src='@/assets/curso/img49.svg' alt='AvatarTop')
+                  img(src='@/assets/curso/img1.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--azul(style="background-color: #FFFFFF !important")
                     .p-4
                       h3 Encuestas
