@@ -41,21 +41,39 @@
 .bg1
   background-color: $color-secundario
   border-radius: 10px
+.bg2
+  background-color: #fff
+  border-radius: 15px
 
 .bgimg1
   background-image: url('../assets/curso/temas/tema1/img2.svg');
   background-repeat: no-repeat
   background-position: center 
   border-radius: 20px
+.bgimg2
+  background-image: url('../assets/curso/temas/tema2/img18.svg');
+  background-repeat: no-repeat
+  background-position: center 
+  position: relative;
+  top: -15px;
+  z-index: 0
+.bgimg3
+  background-image: url('../assets/curso/temas/tema2/img2.png');
+.fullview
+  background: $color-acento-contenido
+  background-position: center
+  background-size: cover
+  margin-inline: -3.4rem
 
-
-
-
-
+.tabs-c.color-secundario .tabs-c__tab--active
+    z-index: 9;
+.tabs-c 
+    border-bottom: 0 !important
+.cajon.color-secundario 
+    background-color: #E7F8F8;
 .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
     border: 2px solid $color-acento-contenido;
     background-color: $color-acento-botones;
-
 .linea-tiempo-c__header__btn i, .linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .pasos-b__header__btn--left i, .pasos-b__header__btn--right i
   color:  $color-acento-contenido;
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container:before 
@@ -72,13 +90,45 @@
   background-color: $color-secundario !important
 .audio.color-acento-contenido .audio__btn, .tarjeta-audio.color-acento-contenido .audio__btn, .tarjeta-dialogo.color-acento-contenido .audio__btn 
     background-color: $color-acento-botones;
-
-
+.bloque-texto-g.color-secundario 
+    background-color: transparent;
+    background-image: url('../assets/curso/temas/tema2/img3.svg');
+    background-repeat: no-repeat
+    background-position: center 
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: $color-acento-botones;
+    border: 1px solid $color-acento-botones;
+.slyder-a__bullets__item--active 
+    background-color: $color-acento-botones;
+    border-color: $color-acento-botones;
+    opacity: 1  !important
+.slyder-a__bullets__item 
+    background-color: $color-acento-botones;
+    opacity: 0.4
 @media screen and (max-width: $bp-max-md)
   .bgimg1 
     background-repeat: initial;
-
+  .bgimg3
+    background-image: none
+  .bloque-texto-g 
+    padding-top: 45px !important;
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .bgimg2
+      padding-left: 40px;
+      padding-right: 40px;
 
 @media screen and (max-width: $bp-max-sm)
   .bgimg1 
     background-repeat: initial;
+  .bgimg3
+    background-image: none
+  .bloque-texto-g 
+    padding-top: 15px !important;
+  .slyder-a__bullets
+    display: none
+  .mb-cus
+    margin-bottom: 2em  !important
+  .bgimg2
+    padding-left: 20px;
+    padding-right: 20px;
