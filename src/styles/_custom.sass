@@ -37,3 +37,48 @@
 
 .titulo-principal__numero
     background-color: $color-secundario  !important
+
+.bg1
+  background-color: $color-secundario
+  border-radius: 10px
+
+.bgimg1
+  background-image: url('../assets/curso/temas/tema1/img2.svg');
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+
+
+
+
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+    border: 2px solid $color-acento-contenido;
+    background-color: $color-acento-botones;
+
+.linea-tiempo-c__header__btn i, .linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .pasos-b__header__btn--left i, .pasos-b__header__btn--right i
+  color:  $color-acento-contenido;
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container:before 
+  background-color: $color-secundario !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot 
+  border-color: $color-secundario !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot:after
+  background-color: $color-secundario !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:before
+  background-color: $color-secundario !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot 
+  border-color: $color-secundario !important
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container:after
+  background-color: $color-secundario !important
+.audio.color-acento-contenido .audio__btn, .tarjeta-audio.color-acento-contenido .audio__btn, .tarjeta-dialogo.color-acento-contenido .audio__btn 
+    background-color: $color-acento-botones;
+
+
+@media screen and (max-width: $bp-max-md)
+  .bgimg1 
+    background-repeat: initial;
+
+
+@media screen and (max-width: $bp-max-sm)
+  .bgimg1 
+    background-repeat: initial;
