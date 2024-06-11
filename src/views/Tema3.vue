@@ -12,7 +12,7 @@
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg4
           .bloque-texto-g__texto.p-5
-            p.mb-0 Es fundamental comprender y recopilar información sobre las variables internas y externas que afectan a la empresa. Esta recolección de datos es esencial para enriquecer el brief y fundamentar las decisiones estratégicas en comunicación y promoción.
+            p.mb-0 Es fundamental comprender y recopilar información sobre las variables internas y externas que afectan a la empresa. Esta recolección de datos es esencial para enriquecer el <i>brief</i> y fundamentar las decisiones estratégicas en comunicación y promoción.
    
    
     Separador
@@ -41,7 +41,7 @@
           .tarjeta.bg3.w-100
             .p-4
               h2.text-center.mt-5.mb-4 Exploratoria
-              p.text-center.mb-5 Es utilizada para recolectar datos de temas de los que no hay muchos disponibles, es una investigación más informal por ser una primera toma de información.
+              p.text-center.mb-5  La investigación exploratoria se emplea principalmente para recabar datos sobre temas poco documentados. Dado su carácter preliminar, esta investigación suele ser más informal y sirve como una fase inicial de recolección de información 
       .col-sm-12.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img4.svg')
@@ -63,7 +63,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img.icon-card-cus(src='@/assets/curso/temas/tema3/img6.svg')
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold Dependiendo del tipo de investigación, el encargado del desarrollo del brief, ya sea el responsable del marketing en la empresa, la agencia de publicidad o el freelancer debe determinar las fuentes de información.
+          p.mb-0.text-white.fw-bold Dependiendo del tipo de investigación, el encargado del desarrollo del <i>brief</i>, ya sea el responsable del marketing en la empresa, la agencia de publicidad o el <i>freelancer</i> debe determinar las fuentes de información.
 
 
 
@@ -173,13 +173,13 @@
           ul.lista-ul.mb-5
             li 
               i.fas.fa-check-circle.color-primario
-              | Test de concepto de nombre.
+              | <i>Test</i> de concepto de nombre.
             li 
               i.fas.fa-check-circle.color-primario
-              | Test de producto o envase.
+              | <i>Test</i> de producto o envase.
             li 
               i.fas.fa-check-circle.color-primario
-              | Pre y pos-test.
+              | <i>Pre</i> y <i>pos-test</i>.
       .col-sm-12.col-lg-6.tarjeta.bgimg8.p-0.d-none.d-lg-block
         h2.mt-5 &nbsp;
      
@@ -236,7 +236,7 @@
 
     .d-flex.align-items-center.my-5(data-aos="zoom-in-left")
         img.w-card-icon(src="@/assets/curso/temas/tema3/img21.svg")
-        .bg5.py-2.w-card-text.fw-bold Focus group
+        .bg5.py-2.w-card-text.fw-bold <i>Focus group</i>
     .cajon.color-secundario.py-4.px-5.mb-5(data-aos="zoom-in-left")
         p.mb-0.fw-bold También llamados grupos focales o sesiones de grupo. Es tal vez la técnica más utilizada en la publicidad y consiste en realizar entrevistas grupales en sesiones que reúnen de diez a doce personas. 
 
@@ -246,8 +246,8 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/tema3/img22.png")
       .col-sm-12.col-lg-6.py-4.px-5.bg4
-        p.mb-4 Con el focus group se pueden hacer estudios acerca de: actitudes, obstáculos y hábitos frente a la compra y el consumo, ideas para nuevos productos, análisis del posicionamiento de un producto, pre y pos-test de campaña.
-        p.mb-4 Para el desarrollo del focus group es necesario tener en cuenta:
+        p.mb-4 Con el <i>focus group</i> se pueden hacer estudios acerca de: actitudes, obstáculos y hábitos frente a la compra y el consumo, ideas para nuevos productos, análisis del posicionamiento de un producto, <i>pre y pos-test</i> de campaña.
+        p.mb-4 Para el desarrollo del <i>focus group</i> es necesario tener en cuenta:
         ul.lista-ul
           li 
             i.fas.fa-check-circle.color-primario
@@ -308,18 +308,18 @@
                     span Ir al sitio
                     i.fas.fa-link
 
-    p.text-center.mb-0(data-aos="zoom-in-left") Estas técnicas son muy eficaces en el desarrollo de conceptos creativos para campañas publicitarias que se basan en insights de consumidor.
+    p.text-center.mb-0(data-aos="zoom-in-left") Estas técnicas son muy eficaces en el desarrollo de conceptos creativos para campañas publicitarias que se basan en <i>insights</i> de consumidor.
     .d-flex.align-items-center.my-5(data-aos="zoom-in-left")
         img.w-card-icon(src="@/assets/curso/temas/tema3/img25.svg")
         .bg5.py-2.w-card-text.fw-bold Técnicas creativas
     p.mb-5(data-aos="zoom-in-left") Estas técnicas explotan al máximo el potencial creativo y permiten el desarrollo de nuevas ideas o la generación de soluciones novedosas y eficaces a problemas o situaciones no comunes. Se deben desarrollar en espacios amplios y con tiempos que van de varias horas hasta todo un día, se requieren alternar con técnicas de relajación y juegos:
     TabsC.color-secundario.mb-5(data-aos="zoom-in-left")
-      .bgimg2.py-3.py-md-4(titulo="Brainstorming")
+      .bgimg2.py-3.py-md-4(titulo="<i>Brainstorming</i>")
         .row.align-items-center.justify-content-center
           .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/tema3/img26.png')
           .col-sm-12.col-lg-6.mb-0
-            h4 Brainstorming
+            h4 <i>Brainstorming</i>
             p Consiste en generar ideas durante un tiempo prolongado y en torno a un tema central. Al inicio no se debe rechazar ninguna, todas requieren ser apuntadas para luego seleccionar las más convenientes y entre todos hacer un desarrollo óptimo de la de idea.
       .bgimg2.py-3.py-md-4(titulo="Cuento de hadas")
         .row.align-items-center.justify-content-center
@@ -335,7 +335,7 @@
           .col-sm-12.col-lg-6.mb-0
             h4 Observación
             p Consiste en observar el comportamiento de uno o varios individuos, con o sin el consentimiento de ellos. Esta técnica es útil para el análisis del comportamiento en el uso o consumo de un producto, en el acto de compra o en el acceso a un servicio. 
-            p Es también una técnica cuantitativa, ya que puede arrojar datos descriptivos con base en objetivos concretos y con metodologías estructuradas de datos específicos con muestreos definidos. Sin embargo, su uso cualitativo es muy importante y eficaz debido a que se puede hacer libremente y generar datos informales que den resultados inesperados. Hoy en día, se puede hacer observación directa de la percepción del comprador y del espectador de anuncios publicitarios a través del Eyetracking, un sistema que graba lo que el investigado ve al mismo tiempo que analiza el movimiento y comportamiento de sus ojos, esto permite conocer las zonas, elementos y características que la persona ve con mayor énfasis en una góndola o un aviso publicitario.
+            p Es también una técnica cuantitativa, ya que puede arrojar datos descriptivos con base en objetivos concretos y con metodologías estructuradas de datos específicos con muestreos definidos. Sin embargo, su uso cualitativo es muy importante y eficaz debido a que se puede hacer libremente y generar datos informales que den resultados inesperados. Hoy en día, se puede hacer observación directa de la percepción del comprador y del espectador de anuncios publicitarios a través del <i>Eyetracking</i>, un sistema que graba lo que el investigado ve al mismo tiempo que analiza el movimiento y comportamiento de sus ojos, esto permite conocer las zonas, elementos y características que la persona ve con mayor énfasis en una góndola o un aviso publicitario.
       .bgimg2.py-3.py-md-4(titulo="Cliente incógnito")
         .row.align-items-center.justify-content-center
           .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -347,12 +347,12 @@
     
     .d-flex.align-items-center.my-5(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/tema3/img21.svg")
-      .bg5.py-2.w-card-text.fw-bold Técnicas online
+      .bg5.py-2.w-card-text.fw-bold Técnicas <i>online</i>
     
-    p.mb-5(data-aos="zoom-in-left") Con la llegada del internet y las tecnologías de comunicación digital, es muy posible realizar investigaciones online con la misma efectividad e incluso con mayores resultados por contar con un muestreo mucho más amplio y diverso:
+    p.mb-5(data-aos="zoom-in-left") Con la llegada del internet y las tecnologías de comunicación digital, es muy posible realizar investigaciones <i>online</i> con la misma efectividad e incluso con mayores resultados por contar con un muestreo mucho más amplio y diverso:
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
-        h4.title-underline-cus Sesiones de grupo online &nbsp;
+        h4.title-underline-cus Sesiones de grupo <i>online</i> &nbsp;
         p.mt-5.mb-5 Tiene el mismo concepto de la sesión de grupo presencial, con la variante que se puede realizar con personas que estén en cualquier lugar del mundo y permite la grabación en varios formatos.
         h4.title-underline-cus Encuestas &nbsp;
         p.mt-5.mb-0 Es una técnica muy conocida, pero al mismo tiempo eficiente; permite realizar formularios que se pueden entregar a través de un enlace a un número indeterminado de personas que hagan parte del grupo objetivo, con la posibilidad de responder en el momento que el investigado prefiera y tenga disponibilidad de tiempo. La información es almacenada en forma de base de datos y genera análisis estadísticos inmediatos, gracias a los cálculos matemáticos generados por computadoras.

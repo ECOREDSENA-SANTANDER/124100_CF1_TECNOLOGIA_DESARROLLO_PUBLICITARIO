@@ -13,8 +13,8 @@
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg14
           .bloque-texto-g__texto.p-5
-            p.mb-0  El proceso de la investigación de mercados comprende una serie de etapas que encadenadas generan un proceso de información para la toma de decisiones; además, están comprendidas de la siguiente manera: identificación del problema, metodología, recolección de datos, análisis, conclusiones y estrategias.
-    
+            p.mb-0  El proceso de investigación de mercados consta de varias etapas secuenciales que proporcionan información esencial para la toma de decisiones. Estas etapas incluyen la identificación del problema, la definición de la metodología, la recolección de datos, el análisis de los mismos, la formulación de conclusiones y la elaboración de estrategias.
+            
     Separador
     #t_5_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2  5.1 Identificación del problema
@@ -66,7 +66,7 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img5.png', alt='')
       .col-sm-12.col-lg-4 
-        p.mb-0 Obtener la información se convierte en la parte más importante del proceso, puesto que estos datos serán necesarios para la posterior toma de decisiones. En este punto, a partir de un cronograma de trabajo detallado se aplican los diferentes instrumentos: encuestas, focus group, observación, entre otros. La logística en esta fase es importante debido a que son necesarios recursos técnicos, tecnológicos y humanos.
+        p.mb-0 Obtener la información se convierte en la parte más importante del proceso, puesto que estos datos serán necesarios para la posterior toma de decisiones. En este punto, a partir de un cronograma de trabajo detallado se aplican los diferentes instrumentos: encuestas, <i>focus group</i>, observación, entre otros. La logística en esta fase es importante debido a que son necesarios recursos técnicos, tecnológicos y humanos.
       
     
     

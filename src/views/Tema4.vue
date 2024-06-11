@@ -17,14 +17,14 @@
     
     Separador
     #t_4_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
-      h2  4.1  Matriz de Ansoff
+      h2  4.1  Matriz de <i>Ansoff</i>
 
     .row.mb-5.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/tema4/img2.png")
       .col-sm-12.col-lg-8
         p Esta matriz es una herramienta que permite analizar desde el punto de vista del portafolio de productos y/o servicios de la empresa, las posibilidades que esta tiene para ampliar la cobertura del mercado.
-        p La matriz de Ansoff confronta dos variables muy importantes, una interna &#60;Producto&#62; y una externa &#60;Mercados&#62;, los criterios que utiliza dicha matriz se basan en la condición de nuevos o actuales: productos del portafolio y mercados en los cuales comercializar dichos productos o servicios.
+        p La matriz de <i>Ansoff</i> confronta dos variables muy importantes, una interna &#60;Producto&#62; y una externa &#60;Mercados&#62;, los criterios que utiliza dicha matriz se basan en la condición de nuevos o actuales: productos del portafolio y mercados en los cuales comercializar dichos productos o servicios.
         .cajon.color-secundario.p-4.mt-5
           p.mb-0 Para realizar esta matriz se necesitan dos datos importantes, el primero es el portafolio de productos de la empresa y el segundo es la descripción del mercado objetivo de la empresa. Con esta información se acude a esta herramienta para ubicar dentro de cada uno de los cuadrantes los productos o servicios que definen las estrategias a desarrollar.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
@@ -32,14 +32,14 @@
         .titulo-sexto.color-secundario.mt-5
           h5 Figura 1.
           span
-            |  Ejemplo matriz de Ansoff
+            |  Ejemplo matriz de <i>Ansoff</i>
         figure
           img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
         figcaption.mt-3 Fuente: SENA (2020)
 
     .d-flex.align-items-center.mt-4.mb-4(data-aos="zoom-in-left")
         img.w-card-icon(src="@/assets/curso/temas/tema3/img19.svg")
-        .bg5.py-2.w-card-text.fw-bold Estrategias de Matriz de Ansoff
+        .bg5.py-2.w-card-text.fw-bold Estrategias de Matriz de <i>Ansoff</i>
     p.mb-5(data-aos="zoom-in-left") Teniendo en cuenta factores del mercadeo objetivo y de los productos, la empresa debe plantear qué estrategia llevará a cabo, de acuerdo con sus capacidades de producción y comercialización:
     .fullview.mb-5.p-5
       .bg2.p-5(data-aos="zoom-in-left")
@@ -105,7 +105,7 @@
                   p.fw-bold.mt-2 Diversificación
                   p.mb-cus.mb-4 Combina tanto nuevos productos como mercados y se realiza con el fin de conquistarlos. Aquí la empresa cuenta con una infraestructura sólida que le permite ganar otras zonas geográficas y llegar a segmentos que nunca ha trabajado antes. Las actividades que se llevan a cabo en esta estrategia mezclan las que se hacen en el desarrollo de productos y de mercados.
                   .cajon.color-secundario.p-4
-                    p.mb-0 Una vez se ha realizado la matriz de Ansoff, la empresa tendrá la capacidad de determinar cuál o cuáles estrategias son más convenientes para incrementar las ventas y mejorar su posicionamiento.
+                    p.mb-0 Una vez se ha realizado la matriz de <i>Ansoff</i>, la empresa tendrá la capacidad de determinar cuál o cuáles estrategias son más convenientes para incrementar las ventas y mejorar su posicionamiento.
     
                 .col-sm-12.col-md-8.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema4/img7.png')
@@ -179,7 +179,7 @@
       .col-sm-12.col-lg-8
         p.mb-5 Una de las variables externas del mercado que representa importancia para una empresa, es la competencia; ya que allí está la libertad de escoger la marca que mejor se adapte a la satisfacción de las necesidades. De ahí que el análisis a los competidores más cercanos permite el desarrollo de estrategias que adapten el producto lo mejor posible a las expectativas de los consumidores.
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Cada factor debe calificarse de 1 a 5 para luego ser totalizado y ubicar a las empresas analizadas en un ranking que determinará el lugar que ocupa la que se está analizando frente a sus competidores y los factores que debe mejorar para su posición. Los que pueden ser objeto de análisis, son:
+          p.mb-0 Cada factor debe calificarse de 1 a 5 para luego ser totalizado y ubicar a las empresas analizadas en un <i>ranking</i> que determinará el lugar que ocupa la que se está analizando frente a sus competidores y los factores que debe mejorar para su posición. Los que pueden ser objeto de análisis, son:
     
     .tarjeta--container.tarjeta-radius-0.row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6.tarjeta.bg4.px-5.py-5
@@ -252,13 +252,13 @@
     
     Separador
     #t_4_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")
-      h2  4.4 Matriz DOFA
+      h2  4.4 Matriz <i>DOFA</i>
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg13
           .bloque-texto-g__texto.p-5
-            p.mb-0 El análisis DOFA o FODA, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
+            p.mb-0 El análisis <i>DOFA</i> o <i>FODA</i>, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
     
     
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
@@ -282,7 +282,7 @@
         .titulo-sexto.color-secundario
           h5 Figura 4.
           span
-            |  Ejemplo matriz DOFA
+            |  Ejemplo matriz <i>DOFA</i>
         figure
           img(src='@/assets/curso/temas/tema4/img21.svg', alt='')
         figcaption Fuente: SENA (2020) 
@@ -303,25 +303,25 @@
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img23.svg')
-        .title-card.bg8.mx-2.mb-4 DO
+        .title-card.bg8.mx-2.mb-4 <i>DO</i>
         p.mb-0.text-center Las debilidades halladas en la matriz deben ser contrastadas con oportunidades del mercado a través de tácticas internas.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img24.svg')
-        .title-card.bg8.mx-2.mb-4 FO
+        .title-card.bg8.mx-2.mb-4 <i>FO</i>
         p.mb-0.text-center Las oportunidades del mercado que la empresa haya identificado deben ser aprovechadas a través de las fortalezas que presenta.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img25.svg')
-        .title-card.bg8.mx-2.mb-4 DA
+        .title-card.bg8.mx-2.mb-4 <i>DA</i>
         p.mb-0.text-center Las debilidades y amenazas que la empresa presenta requieren de estrategias para ser superadas.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img26.svg')
-        .title-card.bg8.mx-2.mb-4 FA
+        .title-card.bg8.mx-2.mb-4 <i>FA</i>
         p.mb-0.text-center Estrategias que permitan contrarrestar las posibles amenazas a partir de las fortalezas de la empresa.
 
     .row.justify-content-center.align-items-center.my-5(data-aos="zoom-in-left")
@@ -330,7 +330,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema4/img13.svg', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold El análisis DOFA permite plantear un compendio de estrategias que pueden llegar a ser muy eficaces en algún momento para la empresa, en relación con factores internos y externos; adicionalmente, genera un panorama amplio de su estado y de posibles puntos de debilidad o fortaleza que se deben mejorar y aprovechar.
+          p.mb-0.text-white.fw-bold El análisis <i>DOFA</i> permite plantear un compendio de estrategias que pueden llegar a ser muy eficaces en algún momento para la empresa, en relación con factores internos y externos; adicionalmente, genera un panorama amplio de su estado y de posibles puntos de debilidad o fortaleza que se deben mejorar y aprovechar.
 </template>
 
 <script>

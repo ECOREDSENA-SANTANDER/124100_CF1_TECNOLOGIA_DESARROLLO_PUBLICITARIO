@@ -196,7 +196,7 @@ export default {
     {
       tema: '',
       referencia:
-        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los insights del consumidor.',
+        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los <i>insights</i> del consumidor.',
       tipo: 'Libro Biblioteca SENA',
       link: 'https://cutt.ly/iyR0A0n',
     },
@@ -276,7 +276,7 @@ export default {
     },
     {
       referencia:
-        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los insights del consumidor. Esic editorial.',
+        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los <i>insights</i> del consumidor. Esic editorial.',
     },
     {
       referencia:

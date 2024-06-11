@@ -12,7 +12,7 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img1.png')
       .col-sm-12.col-lg-8
-        p.mb-5.mt-4 El proceso publicitario en teoría, debería incluir la realización de investigaciones por parte de la empresa propietaria de la marca que busca desarrollar estrategias de promoción y comunicación. No obstante, es común que los empresarios, especialmente en las Mipymes, omitan esta investigación o deleguen esta responsabilidad al profesional de publicidad o a la agencia encargada, particularmente durante la elaboración del brief publicitario.
+        p.mb-5.mt-4 El proceso publicitario en teoría, debería incluir la realización de investigaciones por parte de la empresa propietaria de la marca que busca desarrollar estrategias de promoción y comunicación. No obstante, es común que los empresarios, especialmente en las Mipymes, omitan esta investigación o deleguen esta responsabilidad al profesional de publicidad o a la agencia encargada, particularmente durante la elaboración del <i>brief</i> publicitario.
         .cajon.color-secundario.p-5
           p.mb-0.fw-bold La identificación de las variables que inciden directamente en el proceso comercial, productivo y administrativo de la empresa, son el primer paso para el desarrollo del proceso de investigación publicitaria, toda vez que son el preámbulo a la recolección de información.
     
