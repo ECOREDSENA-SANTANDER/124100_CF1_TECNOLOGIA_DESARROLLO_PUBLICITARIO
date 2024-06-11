@@ -37,13 +37,25 @@
 
 .titulo-principal__numero
     background-color: $color-secundario  !important
-
+.text-sn
+  color: $color-sistema-texto !important  
 .bg1
   background-color: $color-secundario
   border-radius: 10px
 .bg2
   background-color: #fff
   border-radius: 15px
+.bg3
+  background-color: #AEE6E6
+  border-radius: 15px
+.bg4
+  background-color: #EFFAF4
+.bg5
+  background-color: #AEE6E6
+  border-radius: 0 40px 0 0
+.bg6
+  background-color: #FFF4C7
+
 
 .bgimg1
   background-image: url('../assets/curso/temas/tema1/img2.svg');
@@ -59,12 +71,87 @@
   z-index: 0
 .bgimg3
   background-image: url('../assets/curso/temas/tema2/img2.png');
+.bgimg4
+  background-image: url('../assets/curso/temas/tema3/img1.png');
+.bgimg5
+  background-image: url('../assets/curso/temas/tema3/img10.svg');
+  background-repeat: no-repeat
+  background-position: center 
+.bgimg6
+  background-image: url('../assets/curso/temas/tema3/img11.svg');
+  background-repeat: no-repeat
+  background-position: center 
+.bgimg7
+  background-image: url('../assets/curso/temas/tema3/img12.svg');
+  background-repeat: no-repeat
+  background-position: center 
+.bgimg8
+  background-image: url('../assets/curso/temas/tema3/img14.svg');
+  background-repeat: no-repeat
+  background-position: center 
+  background-color: #FFF8DA
+.bgimg9
+  background-image: url('../assets/curso/temas/tema3/img17.svg');
+  background-repeat: no-repeat
+  background-position: center 
+.bgimg10
+  background-image: url('../assets/curso/temas/tema3/img18.svg');
+  background-repeat: no-repeat
+  background-position: center 
+  
 .fullview
   background: $color-acento-contenido
   background-position: center
   background-size: cover
   margin-inline: -3.4rem
 
+
+
+
+
+.icon-card-cus
+  max-width: 60%;
+  margin: auto;
+.fa-check-circle.color-primario
+  color: $color-primario !important
+.w-card-text
+  position: relative
+  padding-left: 50px
+  padding-right: 50px
+  left: -30px
+  z-index: 0
+.w-card-icon
+  width: min-content
+  z-index: 1
+.bgimg2-fix-top
+  top: -28px !important
+.title-underline-cus
+  text-decoration: underline;
+  text-decoration-color: $color-acento-contenido;
+  text-decoration-thickness: 4px;
+  text-decoration-style: solid;
+  text-underline-offset: 10px;
+
+
+
+
+
+
+
+.img-infografica__item__dot, .img-infografica-b__item__dot 
+    width: 45px !important
+    height: 45px !important
+.img-infografica__item__numero, .img-infografica-b__item__numero 
+    left: 110% !important
+.img-infografica.color-secundario .img-infografica__item__dot:before,
+.img-infografica.color-secundario .img-infografica__item__dot:after
+  background-color: $color-acento-botones !important
+.img-infografica.color-secundario .img-infografica__item__numero
+  color: $color-sistema-texto !important  
+  font-size: 20px;
+.tarjeta--container.tarjeta-radius-0 > .tarjeta:first-child 
+    border-top-left-radius: 0 !important
+    border-bottom-left-radius: 0 !important
 .tabs-c.color-secundario .tabs-c__tab--active
     z-index: 9;
 .tabs-c 
@@ -108,7 +195,7 @@
 @media screen and (max-width: $bp-max-md)
   .bgimg1 
     background-repeat: initial;
-  .bgimg3
+  .bgimg3, .bgimg4
     background-image: none
   .bloque-texto-g 
     padding-top: 45px !important;
@@ -117,11 +204,19 @@
   .bgimg2
       padding-left: 40px;
       padding-right: 40px;
-
+  .tarjeta--container > .tarjeta:first-child, 
+  .tarjeta--container > .tarjeta:last-child
+    border-radius: 20px !important
+    margin-bottom: 20px
+  .bgimg5, .bgimg6, .bgimg7
+    background-size: cover
+  .bgimg6
+    border-radius: 20px !important
+  
 @media screen and (max-width: $bp-max-sm)
   .bgimg1 
     background-repeat: initial;
-  .bgimg3
+  .bgimg3, .bgimg4
     background-image: none
   .bloque-texto-g 
     padding-top: 15px !important;
@@ -132,3 +227,5 @@
   .bgimg2
     padding-left: 20px;
     padding-right: 20px;
+  .bgimg6
+    border-radius: 20px !important
