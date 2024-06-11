@@ -55,7 +55,11 @@
   border-radius: 0 40px 0 0
 .bg6
   background-color: #FFF4C7
-
+.bg7
+  background-color: #AEE6E6
+  border-radius: 15px
+.bg8
+  background-color: #7D6EB2
 
 .bgimg1
   background-image: url('../assets/curso/temas/tema1/img2.svg');
@@ -98,7 +102,17 @@
   background-image: url('../assets/curso/temas/tema3/img18.svg');
   background-repeat: no-repeat
   background-position: center 
-  
+.bgimg11
+  background-image: url('../assets/curso/temas/tema4/img1.png'); 
+
+.bgimg12
+  background-image: url('../assets/curso/temas/tema4/img15.svg');
+  background-repeat: no-repeat
+  background-position: center 
+  background-color: #FFF8DA
+  border-radius: 0 !important
+.bgimg13
+  background-image: url('../assets/curso/temas/tema4/img17.png'); 
 .fullview
   background: $color-acento-contenido
   background-position: center
@@ -107,8 +121,12 @@
 
 
 
-
-
+.tarjeta.color-secundario-cus 
+    background-color: #AEE6E6;
+.h-card
+  height: 450px
+.h-card-img
+  height: 120px
 .icon-card-cus
   max-width: 60%;
   margin: auto;
@@ -131,13 +149,25 @@
   text-decoration-thickness: 4px;
   text-decoration-style: solid;
   text-underline-offset: 10px;
+.title-card
+  text-align: center
+  padding-top: 7px
+  padding-bottom: 7px
+  color: #FFF
+  font-weight: bold
 
 
 
 
 
-
-
+.slyder-f__btn i 
+  width: 50px;
+  height: 50px;
+  background-color: $color-acento-botones;
+  border-radius: 50%;
+  text-align: center;
+  padding: 10px;
+  font-size: 2rem;
 .img-infografica__item__dot, .img-infografica-b__item__dot 
     width: 45px !important
     height: 45px !important
@@ -195,7 +225,7 @@
 @media screen and (max-width: $bp-max-md)
   .bgimg1 
     background-repeat: initial;
-  .bgimg3, .bgimg4
+  .bgimg3, .bgimg4, .bgimg11, .bgimg13
     background-image: none
   .bloque-texto-g 
     padding-top: 45px !important;
@@ -212,11 +242,13 @@
     background-size: cover
   .bgimg6
     border-radius: 20px !important
+  .h-card
+    height: auto
   
 @media screen and (max-width: $bp-max-sm)
   .bgimg1 
     background-repeat: initial;
-  .bgimg3, .bgimg4
+  .bgimg3, .bgimg4, .bgimg11, .bgimg13
     background-image: none
   .bloque-texto-g 
     padding-top: 15px !important;
@@ -229,3 +261,5 @@
     padding-right: 20px;
   .bgimg6
     border-radius: 20px !important
+  .h-card
+    height: auto
