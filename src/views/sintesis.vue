@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Se detalla el proceso y componentes de la investigación publicitaria junto a los antecedentes de la investigación de mercados. En el área de investigación publicitaria, se abordan las variables del mercado que influyen en las decisiones de mercado, las técnicas y fuentes para la recolección de información, y diversas matrices de diagnóstico como la matriz de Ansoff, BCG, de Competitividad y DOFA. Por otro lado, los antecedentes de la investigación de mercados se describen a través de un proceso que incluye la identificación del problema, la metodología aplicada, la recolección y análisis de datos, y la elaboración de conclusiones y estrategias resultantes. ")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La imagen presenta un esquema de investigación publicitaria, dividido en cuatro áreas clave: Variables del mercado, que examinan factores externos e internos; Recolección de información, abarcando tipos, fuentes y técnicas de investigación; Matrices de diagnóstico, incluyendo herramientas como las matrices de Ansoff, BCG, competitividad y DOFA; y el Proceso de investigación, que abarca desde la identificación del problema hasta la recolección y análisis de datos y la formulación de estrategias. Este esquema organiza y guía el proceso de investigación en publicidad y mercados.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

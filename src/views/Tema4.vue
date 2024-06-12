@@ -34,7 +34,7 @@
           span
             |  Ejemplo matriz de <i>Ansoff</i>
         figure
-          img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
+          img(src='@/assets/curso/temas/tema4/img3.svg', alt='La imagen presenta la matriz de Ansoff, que es una herramienta de planificación estratégica utilizada para identificar oportunidades de crecimiento. Se organiza en una cuadrícula de dos por dos, con "Productos" en el eje horizontal y "Mercados" en el eje vertical. Los cuadrantes resultantes son: "Penetración del mercado" (productos actuales en mercados actuales), "Desarrollo de productos" (productos nuevos en mercados actuales), "Desarrollo de mercados" (productos actuales en mercados nuevos) y "Diversificación" (productos nuevos en mercados nuevos). Cada estrategia representa diferentes enfoques para expandir el negocio.')
         figcaption.mt-3 Fuente: SENA (2020)
 
     .d-flex.align-items-center.mt-4.mb-4(data-aos="zoom-in-left")
@@ -123,7 +123,7 @@
           span
             |  Ejemplo matriz de BCG
         figure
-          img(src='@/assets/curso/temas/tema4/img8.svg', alt='')
+          img(src='@/assets/curso/temas/tema4/img8.svg', alt='La imagen presenta la matriz BCG, una herramienta de gestión empresarial que ayuda a analizar la cartera de productos de una empresa. Se divide en cuatro cuadrantes basados en el crecimiento del mercado y la participación de mercado. Los cuadrantes son: "Producto estrella" (alto crecimiento, alta participación), "Producto incógnita" (alto crecimiento, baja participación), "Producto vaca" (bajo crecimiento, alta participación) y "Producto perro" (bajo crecimiento, baja participación). Cada categoría sugiere diferentes estrategias de inversión y gestión para maximizar el rendimiento del portafolio de productos.')
         figcaption.mb-cus.mt-3 Fuente: SENA (2020)
       .col-sm-12.col-lg-5
         p Es también llamada Matriz del Grupo Consultor de Boston. Está constituida de cuatro secciones representadas mediante gráficos que le otorgan a cada producto una característica particular. Los criterios para la asignación de una figura a cada producto son: el crecimiento de la industria y la participación en el mercado de cada producto o servicio. Es importante tener en cuenta que antes de llevarla a cabo, ambos datos deben estar corroborados.
@@ -236,7 +236,7 @@
       span
         |  Ejemplo matriz de competitividad
     figure(data-aos="zoom-in-left")
-      img(src='@/assets/curso/temas/tema4/img16.svg', alt='')
+      img(src='@/assets/curso/temas/tema4/img16.svg', alt='La imagen presenta una matriz de competitividad, utilizada para evaluar y comparar el desempeño de una empresa frente a sus competidores. La tabla enumera la empresa en cuestión y varios competidores (Com 1, Com 2, etc.) en la primera columna. Las siguientes columnas enumeran diferentes factores de evaluación (Factor 1, Factor 2, etc.). Cada empresa se evalúa en cada factor, y la suma de los factores se presenta en la columna "Total". La columna final, "Ubicación", indica el puesto que ocupa cada empresa en el ranking general basado en sus puntuaciones totales. Esta matriz permite identificar áreas de fortaleza y debilidad relativa en comparación con la competencia.')
     figcaption Fuente: SENA (2020) 
 
 
@@ -284,7 +284,7 @@
           span
             |  Ejemplo matriz <i>DOFA</i>
         figure
-          img(src='@/assets/curso/temas/tema4/img21.svg', alt='')
+          img(src='@/assets/curso/temas/tema4/img21.svg', alt='La imagen presenta la matriz DOFA, una herramienta de análisis estratégico que identifica Debilidades, Oportunidades, Fortalezas y Amenazas. Esta matriz se utiliza para desarrollar estrategias: DO (minimizar debilidades aprovechando oportunidades), FO (usar fortalezas para aprovechar oportunidades), DA (minimizar debilidades para enfrentar amenazas) y FA (usar fortalezas para enfrentar amenazas).')
         figcaption Fuente: SENA (2020) 
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img.mt-5(src='@/assets/curso/temas/tema4/img22.png', alt='')
