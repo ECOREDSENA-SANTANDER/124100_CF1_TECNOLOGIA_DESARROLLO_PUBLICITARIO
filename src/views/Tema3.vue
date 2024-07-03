@@ -63,7 +63,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img.icon-card-cus(src='@/assets/curso/temas/tema3/img6.svg')
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold Dependiendo del tipo de investigación, el encargado del desarrollo del <i>brief</i>, ya sea el responsable del marketing en la empresa, la agencia de publicidad o el <i>freelancer</i> debe determinar las fuentes de información.
+          p.mb-0.text-white.fw-bold Dependiendo del tipo de investigación, el encargado del desarrollo del <i>brief</i>, ya sea el responsable del <i>marketing</i> en la empresa, la agencia de publicidad o el <i>freelancer</i> debe determinar las fuentes de información.
 
 
 

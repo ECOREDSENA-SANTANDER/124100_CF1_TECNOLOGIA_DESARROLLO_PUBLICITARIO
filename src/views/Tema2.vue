@@ -155,7 +155,7 @@
               img(src='@/assets/curso/temas/tema2/img17.png')
           .col-sm-12.col-lg-6.mb-0
             h4 Personal
-            p De acuerdo con la versión de Kotler del Marketing mix, el personal hace parte de las 6P de la empresa y se asume como una variable controlable muy importante. Un personal capacitado y con sentido de pertenencia puede generar un impulso trascendental a la organización.
+            p De acuerdo con la versión de Kotler del <i>Marketing</i> mix, el personal hace parte de las 6P de la empresa y se asume como una variable controlable muy importante. Un personal capacitado y con sentido de pertenencia puede generar un impulso trascendental a la organización.
   
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -164,7 +164,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema2/img19.svg', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold Las variables del mercado, sean internas o externas representan la clave para el planteamiento de las estrategias de marketing y de comunicación. La principal tarea del encargado de la publicidad de la empresa está en el análisis cuidadoso de cada una de ellas, con el fin de que en el diseño se produzca un beneficio para la Mipyme y los riegos sean mínimos.
+          p.mb-0.text-white.fw-bold Las variables del mercado, sean internas o externas representan la clave para el planteamiento de las estrategias de <i>marketing</i> y de comunicación. La principal tarea del encargado de la publicidad de la empresa está en el análisis cuidadoso de cada una de ellas, con el fin de que en el diseño se produzca un beneficio para la Mipyme y los riegos sean mínimos.
 </template>
 
 <script>

@@ -194,24 +194,26 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: '2. Variables de mercado',
       referencia:
-        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los <i>insights</i> del consumidor.',
-      tipo: 'Libro Biblioteca SENA',
-      link: 'https://cutt.ly/iyR0A0n',
+        'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los insights del consumidor.',
+      tipo: 'Libro ESIC',
+      link:
+        'https://www.esic.edu/editorial/la-investigacion-de-mercados-claves-para-conocer-los-insights-del-consumidor',
     },
     {
-      tema: '',
-      referencia: 'Prieto, J. E. (2013). Investigación de Mercados.',
-      tipo: 'Libro Biblioteca SENA',
-      link: 'https://cutt.ly/UyR0LfW',
+      tema: '2. Variables del mercado',
+      referencia: 'Prieto, J. E (2013). Investigación de Mercados.',
+      tipo: 'Libro',
+      link:
+        'https://books.google.com.co/books?hl=es&lr=&id=tQpZEAAAQBAJ&oi=fnd&pg=PR17&dq=Prieto,+J.+E+(2013).+Investigaci%C3%B3n+de+Mercados.&ots=EgcOfBVWZZ&sig=UCw4MZGGutwXkdame-6veYPrFJQ#v=onepage&q&f=false',
     },
     {
-      tema: '',
+      tema: '3.2 Fuentes de información',
       referencia:
         'Vilajoana, A., Jiménez, M., González, Z. y Vila, J. (2014). ¿Cómo diseñar una campaña de publicidad?',
-      tipo: 'Libro Biblioteca SENA',
-      link: 'https://cutt.ly/PyR0VJB',
+      tipo: 'Libro digital',
+      link: 'https://reader.digitalbooks.pro/book/preview/37793/Chapter01',
     },
   ],
   glosario: [
@@ -272,7 +274,8 @@ export default {
         'Kotler, P. & Armstrong, G. (2003). Fundamentos de Mercadotecnia. McGraw Hill.',
     },
     {
-      referencia: 'Kotler, P. & Armstrong, G. (2012). Marketing. Pearson.',
+      referencia:
+        'Kotler, P. & Armstrong, G. (2012). <i>Marketing</i>. Pearson.',
     },
     {
       referencia:
