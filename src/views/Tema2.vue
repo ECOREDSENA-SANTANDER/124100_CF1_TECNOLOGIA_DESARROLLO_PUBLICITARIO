@@ -8,7 +8,7 @@
         span 2
       h1 Variables del mercado
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img1.png')
       .col-sm-12.col-lg-8
@@ -21,9 +21,9 @@
     Separador
     #t_2_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2  2.1 ¿Qué es una variable del mercado?
-    .row.justify-content-center(data-aos="zoom-in-left")
+    .row.justify-content-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0
           .bloque-texto-g__img.bgimg3
           .bloque-texto-g__texto.p-5
             p.mb-0 Es un elemento que puede cambiar debido a influencias tanto internas como externas, y que tiene un impacto significativo, ya sea positivo o negativo, en el desempeño comercial de los productos o servicios de una empresa. Estas variables son cruciales para entender y adaptarse a las dinámicas del mercado en el que opera la empresa.
@@ -34,7 +34,7 @@
       h2 2.2 Variables externas
     p.mb-5(data-aos="zoom-in-left") Son variables que están exentas del control de la empresa y sobre las que no se pueden tomar decisiones directamente; sin embargo, son confortables a través de acciones que se realizan dentro de ella. Las variables externas con más incidencia en la mayoría de Mipymes, son:
     
-    .fullview.mb-5.p-5
+    .fullview.mb-0.p-5
       .bg2.p-5(data-aos="zoom-in-left")
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.mb-0

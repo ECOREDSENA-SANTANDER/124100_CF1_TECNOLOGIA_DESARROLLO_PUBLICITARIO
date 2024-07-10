@@ -10,7 +10,7 @@
     p.mb-5(data-aos="zoom-in-left") El desarrollo de una investigación debe necesariamente tener una estructura sólida, coherente y organizada. Esto, con el fin obtener la información y los resultados de la forma más eficiente posible.
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0
           .bloque-texto-g__img.bgimg14
           .bloque-texto-g__texto.p-5
             p.mb-0  El proceso de investigación de mercados consta de varias etapas secuenciales que proporcionan información esencial para la toma de decisiones. Estas etapas incluyen la identificación del problema, la definición de la metodología, la recolección de datos, el análisis de los mismos, la formulación de conclusiones y la elaboración de estrategias.
@@ -22,25 +22,25 @@
     
     .tarjeta--container.tarjeta-radius-0.row.mb-5.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6.tarjeta.bg4.px-5.py-5
-        p.mb-0 El problema define la información general que la empresa busca obtener con el desarrollo de la investigación; en este punto, lo más recomendable es hacerlo en forma de pregunta. Para ello, se deben reunir algunas características puntuales:
+        p.mb-4 El problema define la información general que la empresa busca obtener con el desarrollo de la investigación; en este punto, lo más recomendable es hacerlo en forma de pregunta. Para ello, se deben reunir algunas características puntuales:
         ul.lista-ul
-          li 
+          li.d-flex 
             i.fas.fa-check-circle.color-primario
-            | Ser abierta, que la respuesta conduzca a una explicación amplia y argumentada, en ningún momento debe generar una respuesta con un sí o un no.
-          li 
+            p.mb-0 Ser abierta, que la respuesta conduzca a una explicación amplia y argumentada, en ningún momento debe generar una respuesta con un sí o un no.
+          li.d-flex 
             i.fas.fa-check-circle.color-primario
-            | Ser concreta, ir al punto y preguntar directamente sin extensiones o introducciones innecesarias.
-          li 
+            p.mb-0 Ser concreta, ir al punto y preguntar directamente sin extensiones o introducciones innecesarias.
+          li.d-flex 
             i.fas.fa-check-circle.color-primario
-            | Ser clara, cualquier persona que la lea debe tener la capacidad de entenderla.
-          li 
+            p.mb-0 Ser clara, cualquier persona que la lea debe tener la capacidad de entenderla.
+          li.d-flex 
             i.fas.fa-check-circle.color-primario
-            | La pregunta debe conducir al diseño de los objetivos de la investigación.
+            p.mb-0 La pregunta debe conducir al diseño de los objetivos de la investigación.
       .col-sm-12.col-lg-6.tarjeta.bgimg15.p-3.d-none.d-lg-block
         h2.mt-5.p-3 &nbsp;
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
        .row.justify-content-center.align-items-center
         .col-sm-12.col-lg-2.d-none.d-lg-block
@@ -50,9 +50,9 @@
           p.mb-0.text-white.fw-bold  Los objetivos específicos deben derivarse del objetivo general dividiéndolo en temas puntuales que conduzcan en su conjunto a la obtención de la información total.
     
     Separador
-    #t_5_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+    #t_5_2.titulo-segundo.color-secundario.mb-0(data-aos="zoom-in-left")
       h2  5.2 Metodología
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
         p.mb-0 La metodología de la investigación se refiere a la forma como se va a recolectar la información; es decir, la selección de las fuentes, el tamaño de la muestra y los métodos que se van a utilizar para obtener los datos necesarios para cumplir con los objetivos general y específicos.
       .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -60,9 +60,9 @@
    
    
     Separador
-    #t_5_3.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+    #t_5_3.titulo-segundo.color-secundario.mb-0(data-aos="zoom-in-left")
       h2 5.3 Recolección de datos
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img5.png', alt='')
       .col-sm-12.col-lg-4 
@@ -71,18 +71,18 @@
     
     
     Separador
-    #t_5_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+    #t_5_4.titulo-segundo.color-secundario.mb-0(data-aos="zoom-in-left")
       h2 5.4 Análisis de información
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
         p.mb-0  Requiere de varios pasos, el primero es organizar los datos, luego es necesario tabularlos para convertirlos en información. En este punto también se hacen necesarios algunos recursos tecnológicos como software de análisis y hojas de cálculo para guardar la información de forma ordenada. Los datos deben ser interpretados para facilitar la toma de decisiones.
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img6.png', alt='')
     
     Separador
-    #t_5_5.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+    #t_5_5.titulo-segundo.color-secundario.mb-0(data-aos="zoom-in-left")
       h2  5.5 Conclusiones
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img7.png', alt='')
       .col-sm-12.col-lg-4 
@@ -91,9 +91,9 @@
     
     
     Separador
-    #t_5_6.titulo-segundo.color-secundario(data-aos="zoom-in-left")
+    #t_5_6.titulo-segundo.color-secundario.mb-0(data-aos="zoom-in-left")
       h2  5.6 Estrategias
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
         p.mb-0  La realización de una investigación de mercados o publicitaria debe tener un fin estratégico. En este punto los encargados del mercado y las comunicaciones dentro de la empresa deben tomar tanto las conclusiones como la información generada en todo el proceso, para luego plantear actividades y acciones para su beneficio.
       .col-sm-12.col-lg-4.d-none.d-lg-block

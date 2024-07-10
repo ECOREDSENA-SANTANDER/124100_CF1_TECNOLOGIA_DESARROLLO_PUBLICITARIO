@@ -10,7 +10,7 @@
     
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0
           .bloque-texto-g__img.bgimg11
           .bloque-texto-g__texto.p-5
             p.mb-0 Las matrices de diagnóstico, son herramientas útiles para analizar diferentes aspectos de la empresa realizando comparaciones con variables externas que permitan medir su estado actual en el mercado. Dichas confrontaciones se realizan con el fin de plantear estrategias a partir de las variables internas para contrarrestar los efectos generados por las variables externas.
@@ -19,7 +19,7 @@
     #t_4_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2  4.1  Matriz de <i>Ansoff</i>
 
-    .row.mb-5.align-items-center(data-aos="zoom-in-left")
+    .row.mb-0.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src="@/assets/curso/temas/tema4/img2.png")
       .col-sm-12.col-lg-8
@@ -41,7 +41,7 @@
         img.w-card-icon(src="@/assets/curso/temas/tema3/img19.svg")
         .bg5.py-2.w-card-text.fw-bold Estrategias de Matriz de <i>Ansoff</i>
     p.mb-5(data-aos="zoom-in-left") Teniendo en cuenta factores del mercadeo objetivo y de los productos, la empresa debe plantear qué estrategia llevará a cabo, de acuerdo con sus capacidades de producción y comercialización:
-    .fullview.mb-5.p-5
+    .fullview.mb-0.p-5
       .bg2.p-5(data-aos="zoom-in-left")
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.mb-0
@@ -57,9 +57,9 @@
                     li 
                       i.fas.fa-check-circle.color-primario
                       | Atraer a compradores de la competencia.
-                    li 
+                    li.d-flex
                       i.fas.fa-check-circle.color-primario
-                      | Incentivar el aumento del consumo de los productos y/o servicios.
+                      p.mb-0  Incentivar el aumento del consumo de los productos y/o servicios.
                 .col-sm-12.col-md-8.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema4/img4.png')
           .row.justify-content-center.align-items-center.mb-0
@@ -72,12 +72,12 @@
                     li 
                       i.fas.fa-check-circle.color-primario
                       | Incrementar los canales de distribución.
-                    li 
+                    li.d-flex
                       i.fas.fa-check-circle.color-primario
-                      | Realizar estrategias de promoción y comunicación dirigida a nuevos segmentos de personas.
-                    li 
+                      p.mb-0 Realizar estrategias de promoción y comunicación dirigida a nuevos segmentos de personas.
+                    li.d-flex
                       i.fas.fa-check-circle.color-primario
-                      | Realizar estrategias de comunicación en otras zonas geográficas.
+                      p.mb-0  Realizar estrategias de comunicación en otras zonas geográficas.
                 .col-sm-12.col-md-8.col-lg-4.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema4/img5.png')
           .row.justify-content-center.align-items-center.mb-0
@@ -160,7 +160,7 @@
           .title-card.bg8.mx-2 Perro
           p.mt-4.text-center.mx-2 Conocidos también como hueso, son productos que están ad portas de salir del mercado, su ciclo de vida está terminando debido a que su participación es leve y la industria tiene un crecimiento bajo.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
        .row.justify-content-center.align-items-center
         .col-sm-12.col-lg-2.d-none.d-lg-block
@@ -240,7 +240,7 @@
     figcaption Fuente: SENA (2020) 
 
 
-    .row.justify-content-center.align-items-center.my-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
        .row.justify-content-center.align-items-center
         .col-sm-12.col-lg-2.d-none.d-lg-block

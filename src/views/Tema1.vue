@@ -25,7 +25,7 @@
             img(src='@/assets/curso/temas/tema1/img3.svg')
           .col-sm-12.col-lg-5.mb-0.mt-5
             .h4.mt-2 1911
-            p.mb-0 J. George Frederick estableció una firma de investigación llamada de Bussiness Bourne.
+            p.mb-0 J. George Frederick estableció una firma de investigación llamada de  #[i Bussiness Bourne].
         .row(titulo="1911 - 1914").align-items-center.justify-content-center
           .col-sm-12.col-lg-3.mb-0
               img(src='@/assets/curso/temas/tema1/img4.svg')
@@ -37,19 +37,19 @@
               img(src='@/assets/curso/temas/tema1/img5.svg')
           .col-sm-12.col-lg-5.mb-0.mt-5
             .h4.mt-2 1915
-            p Crean el Department of Commercial Research (Departamento de Investigación Comercial) de la United States Rubber y contratan al Dr. Paul H. Nystrom para su manejo.
+            p Crean el #[i Department of Commercial Research] (Departamento de Investigación Comercial) de la  #[i United States Rubber] y contratan al Dr. Paul H. Nystrom para su manejo.
         .row(titulo="1921").align-items-center.justify-content-center
           .col-sm-12.col-lg-3.mb-0
               img(src='@/assets/curso/temas/tema1/img6.svg')
           .col-sm-12.col-lg-5.mb-0.mt-5
             .h4.mt-2 1921
-            p Se publicó Market Analysis de Percival White, que fue el primer libro de investigación en ganar un alto número de lectores y del que se hicieron varias ediciones.
+            p Se publicó  #[i Market Analysis de Percival White], que fue el primer libro de investigación en ganar un alto número de lectores y del que se hicieron varias ediciones.
         .row(titulo="1937").align-items-center.justify-content-center
           .col-sm-12.col-lg-3.mb-0
               img(src='@/assets/curso/temas/tema1/img7.svg')
           .col-sm-12.col-lg-5.mb-0.mt-5
             .h4.mt-2 1937
-            p Se publicó Market Research and Analysis de Lyndon O. Brown, uno de los textos universitarios más populares de la época.
+            p Se publicó  #[i  Market Research and Analysis] de Lyndon O. Brown, uno de los textos universitarios más populares de la época.
         .row(titulo="1940").align-items-center.justify-content-center
           .col-sm-12.col-lg-3.mb-0
               img(src='@/assets/curso/temas/tema1/img8.svg')
@@ -85,7 +85,7 @@
               img(src='@/assets/curso/temas/tema1/img13.svg')
           .col-sm-12.col-lg-5.mb-0.mt-5
             .h4.mt-2 2002
-            p El Dr. Ale Smith, ganador del premio Nobel en economía, acuña el término Neuromarketing por el uso de tecnologías médicas en el estudio del comportamiento de los consumidores.
+            p El Dr. Ale Smith, ganador del premio Nobel en economía, acuña el término  #[i Neuromarketing] por el uso de tecnologías médicas en el estudio del comportamiento de los consumidores.
 
     .row.align-items-center.justify-content-center.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4

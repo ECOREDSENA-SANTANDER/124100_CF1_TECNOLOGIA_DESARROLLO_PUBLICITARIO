@@ -9,7 +9,7 @@
       h1 Recolección de información
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0
           .bloque-texto-g__img.bgimg4
           .bloque-texto-g__texto.p-5
             p.mb-0 Es fundamental comprender y recopilar información sobre las variables internas y externas que afectan a la empresa. Esta recolección de datos es esencial para enriquecer el <i>brief</i> y fundamentar las decisiones estratégicas en comunicación y promoción.
@@ -18,6 +18,7 @@
     Separador
     #t_3_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2  3.1 Tipos de investigación
+    p.mb-5 La investigación se puede clasificar en varios tipos según diferentes criterios, como el propósito, la naturaleza de los datos, la metodología empleada, o el enfoque del estudio. A continuación se expone el siguiente video en donde encontrará: de forma  resumida los principales tipos de investigación:
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .tarjeta.color-secundario.p-3.mb-5
@@ -41,7 +42,7 @@
           .tarjeta.bg3.w-100
             .p-4
               h2.text-center.mt-5.mb-4 Exploratoria
-              p.text-center.mb-5  La investigación exploratoria se emplea principalmente para recabar datos sobre temas poco documentados. Dado su carácter preliminar, esta investigación suele ser más informal y sirve como una fase inicial de recolección de información 
+              p.text-center.mb-5  La investigación exploratoria se emplea principalmente para recabar datos sobre temas poco documentados. Dado su carácter preliminar, esta investigación suele ser más informal y sirve como una fase inicial de recolección de información.
       .col-sm-12.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img4.svg')
@@ -57,7 +58,7 @@
               h2.text-center.mt-5.mb-4 Casual
               p.text-center.mb-5 Es una investigación experimental, analiza causas específicas de un caso en particular; por ejemplo, las razones del bajo nivel en ventas de un producto.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
        .row.justify-content-center.align-items-center
         .col-sm-12.col-lg-2.d-none.d-lg-block
@@ -145,8 +146,8 @@
       .col-sm-12.col-lg-6
         p.mb-0 Con la investigación cualitativa se pueden abordar problemáticas tales como:
     
-    .tarjeta--container.tarjeta-radius-0.row.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-6.tarjeta.bg4.px-5.py-4
+    .tarjeta--container.tarjeta-radius-0.row.mb-0(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-6.tarjeta.bg4.px-5.pt-4
           .h4.mt-4 Diagnóstico
           ul.lista-ul.mb-5
             li 
@@ -204,7 +205,7 @@
         h2.mt-5.text-white Información cuantitativa
         p.text-white Consiste en datos que pueden ser medidos y representados numéricamente. Este tipo de información es clave en estudios que requieren precisión y análisis estadístico.
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
@@ -281,16 +282,16 @@
              
           .tarjeta.bg6.text-center.p-4(x="10%" y="14%" numero="+")
             .h5.mb-2 #[b Técnica de asociación:]
-            p.mb-0 el investigado relaciona unas palabras con otras, esto permite conocer su percepción acerca de determinado producto o beneficio.
+            p.mb-0 El investigado relaciona unas palabras con otras, esto permite conocer su percepción acerca de determinado producto o beneficio.
           .tarjeta.bg6.text-center.p-4(x="35%" y="89%" numero="+")
             .h5.mb-2 #[b Técnicas de complementación:] 
-            p.mb-0 consiste en que el investigado completa una frase o una historia que permite conocer sus posiciones frente a determinadas situaciones.
+            p.mb-0 Consiste en que el investigado completa una frase o una historia que permite conocer sus posiciones frente a determinadas situaciones.
           .tarjeta.bg6.text-center.p-4(x="61%" y="14%" numero="+")
             .h5.mb-2 #[b Técnicas de construcción:] 
-            p.mb-0 con esta técnica el investigado realiza dibujos, esculturas, esquemas, entre otros elementos que permiten una posterior interpretación.
+            p.mb-0 Con esta técnica el investigado realiza dibujos, esculturas, esquemas, entre otros elementos que permiten una posterior interpretación.
           .tarjeta.bg6.text-center.p-4(x="87%" y="89%" numero="+")
             .h5.mb-2 #[b Técnicas de expresión:] 
-            p.mb-0 en esta técnica el investigado se expresa a través de un rol específico en una situación planteada, para luego realizar el respectivo análisis.
+            p.mb-0 En esta técnica el investigado se expresa a través de un rol específico en una situación planteada, para luego realizar el respectivo análisis.
 
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
