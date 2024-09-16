@@ -18,7 +18,7 @@
     Separador
     #t_3_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2  3.1 Tipos de investigación
-    p.mb-5 La investigación se puede clasificar en varios tipos según diferentes criterios, como el propósito, la naturaleza de los datos, la metodología empleada, o el enfoque del estudio. A continuación se expone el siguiente video en donde encontrará: de forma  resumida los principales tipos de investigación:
+    p.mb-5 La investigación se puede clasificar en varios tipos según diferentes criterios, como el propósito, la naturaleza de los datos, la metodología empleada, o el enfoque del estudio. A continuación se expone el siguiente video en donde encontrará de forma  resumida los principales tipos de investigación:
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .tarjeta.color-secundario.p-3.mb-5
