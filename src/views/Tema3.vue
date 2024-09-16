@@ -31,7 +31,7 @@
                   h3.mb-1.text-white Tipos de investigación
                   p.mb-0.text-sn Las fuentes de información son esenciales para cualquier tipo de investigación, estudio o consulta general. Se clasifican principalmente en tres categorías basadas en su originalidad, especificidad y confiabilidad. Aquí se  describe cada tipo de fuente de información:
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HhAMuQUXaDM" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=tggEf8TUYn4" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
     p.mb-5(data-aos="zoom-in-left") Dentro de cada empresa existen datos e información específica del sector, por este motivo los métodos de recolección dependerán del tipo de investigación a realizar:
@@ -88,7 +88,7 @@
                   h3.mb-1.text-white Tipos de fuentes de información
                   p.mb-0.text-sn Las fuentes de información son esenciales para cualquier tipo de investigación, estudio o consulta general. Se clasifican principalmente en tres categorías basadas en su originalidad, especificidad y confiabilidad. Aquí se  describe cada tipo de fuentes de información:
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=FDi2VkvRdZ8" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=e_T-WWyXUbE" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
     p.mb-5(data-aos="zoom-in-left") Si bien los datos están a la orden del día gracias a los medios de comunicación digital, es necesario recurrir a diferentes fuentes para obtener la mejor y mayor información posible para minimizar el riesgo en la toma de decisiones y el planteamiento de las estrategias.
@@ -125,7 +125,7 @@
                   h3.mb-1.text-white Medios de comunicación digital
                   p.mb-0.text-sn Revise con atención el video “Medios de comunicación digital”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c47SPcLtlCw" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=kHaL5F-GF0E" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 
@@ -217,7 +217,7 @@
                   h3.mb-1.text-white Tipos de información
                   p.mb-0.text-sn Revise con atención el video “Tipos de información”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=rAqeHpglhc0" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=LwhTkn2ItNA" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 
@@ -305,7 +305,7 @@
                   h3.mb-1.text-white Técnicas creativas
                   p.mb-0.text-sn Las técnicas creativas para recolectar información pueden ser particularmente útiles para involucrar a los participantes de manera más activa, explorar temas desde perspectivas novedosas y profundas. En el siguiente video se detallan algunas técnicas creativas que pueden ser empleadas en diversos campos, como la investigación de mercados, el diseño de productos, la educación y las ciencias sociales.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IXkSw8ASkWU" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=-7xdSIYcjB8" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 
@@ -382,7 +382,7 @@
                   p.text-sn La investigación en línea se ha convertido en una herramienta esencial en muchos campos debido a su accesibilidad, velocidad y la amplia gama de datos que puede ofrecer. En el siguiente video encontrará algunas técnicas de investigación en línea eficaces.
                   p.mb-0.text-sn Estas técnicas permiten a los investigadores aprovechar las tecnologías digitales para recopilar, analizar y interpretar datos de formas que antes no eran posibles, abriendo nuevas posibilidades para la investigación.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=IXkSw8ASkWU" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Qtq75dOYHgY" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 </template>
