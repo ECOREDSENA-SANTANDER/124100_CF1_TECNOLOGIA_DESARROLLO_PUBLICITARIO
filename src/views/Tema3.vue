@@ -37,21 +37,21 @@
     p.mb-5(data-aos="zoom-in-left") Dentro de cada empresa existen datos e información específica del sector, por este motivo los métodos de recolección dependerán del tipo de investigación a realizar:
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4.mb-cus
-        .tarjeta-avatar
+        .tarjeta-avatar.h-card-2
           img(src='@/assets/curso/temas/tema3/img3.svg')
           .tarjeta.bg3.w-100
             .p-4
               h2.text-center.mt-5.mb-4 Exploratoria
               p.text-center.mb-5  La investigación exploratoria se emplea principalmente para recabar datos sobre temas poco documentados. Dado su carácter preliminar, esta investigación suele ser más informal y sirve como una fase inicial de recolección de información.
       .col-sm-12.col-lg-4.mb-cus
-        .tarjeta-avatar
+        .tarjeta-avatar.h-card-2
           img(src='@/assets/curso/temas/tema3/img4.svg')
           .tarjeta.bg3.w-100
             .p-4
               h2.text-center.mt-5.mb-4 Descriptiva
               p.text-center.mb-5 Trata un tema especial en un momento determinado o en un lapso específico; como su nombre lo indica, describe aspectos en relación con variables del mercado.
       .col-sm-12.col-lg-4.mb-cus
-        .tarjeta-avatar
+        .tarjeta-avatar.h-card-2
           img(src='@/assets/curso/temas/tema3/img5.svg')
           .tarjeta.bg3.w-100
             .p-4
@@ -224,8 +224,8 @@
 
     p.mb-5(data-aos="zoom-in-left") La investigación cualitativa recoge información que tiene como base aspectos psicológicos, sociológicos y antropológicos; de ahí que las técnicas de recolección de datos se enfoquen en el ser y en el análisis en profundidad del mismo. Para obtener datos cualitativos se utilizan los siguientes métodos:
     
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-6
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-8
         .d-flex.align-items-center.mt-4
             img.w-card-icon(src="@/assets/curso/temas/tema3/img19.svg")
             .bg5.py-2.w-card-text.fw-bold Entrevista en profundidad

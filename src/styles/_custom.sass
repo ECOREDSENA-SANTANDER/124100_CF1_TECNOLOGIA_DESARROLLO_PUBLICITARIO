@@ -133,6 +133,8 @@
     background-color: #AEE6E6;
 .h-card
   height: 450px
+.h-card-2
+  height: 470px
 .h-card-img
   height: 120px
 .icon-card-cus
@@ -230,6 +232,9 @@
 .slyder-a__bullets__item 
     background-color: $color-acento-botones;
     opacity: 0.4
+@media screen and (max-width: $bp-max-lg)
+ .h-card-2
+    height: 490px
 @media screen and (max-width: $bp-max-md)
   .bgimg1 
     background-repeat: initial;
@@ -250,8 +255,9 @@
     background-size: cover
   .bgimg6
     border-radius: 20px !important
-  .h-card
+  .h-card, .h-card-2
     height: auto
+ 
   
 @media screen and (max-width: $bp-max-sm)
   .bgimg1 

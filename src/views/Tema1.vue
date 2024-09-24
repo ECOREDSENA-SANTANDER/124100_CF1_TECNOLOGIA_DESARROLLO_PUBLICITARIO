@@ -90,7 +90,7 @@
     .row.align-items-center.justify-content-center.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
         TarjetaAudio.color-acento-contenido.mb-3(
-          :audio="require('@/assets/componentes/audio.mp3')"
+          :audio="require('@/assets/componentes/investigacion_publicitaria.wav')"
           @audio-hover="mostrarIndicadorTarjetaAudio = false"
         )
 </template>

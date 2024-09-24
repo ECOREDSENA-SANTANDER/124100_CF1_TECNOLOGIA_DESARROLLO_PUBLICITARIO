@@ -24,7 +24,7 @@
         img(src="@/assets/curso/temas/tema4/img2.png")
       .col-sm-12.col-lg-8
         p Esta matriz es una herramienta que permite analizar desde el punto de vista del portafolio de productos y/o servicios de la empresa, las posibilidades que esta tiene para ampliar la cobertura del mercado.
-        p La matriz de <i>Ansoff</i> confronta dos variables muy importantes, una interna &#60;Producto&#62; y una externa &#60;Mercados&#62;, los criterios que utiliza dicha matriz se basan en la condición de nuevos o actuales: productos del portafolio y mercados en los cuales comercializar dichos productos o servicios.
+        p La matriz de <i>Ansoff</i> confronta dos variables muy importantes, una interna (productos) y una externa (mercados), los criterios que utiliza dicha matriz se basan en la condición de nuevos o actuales: productos del portafolio y mercados en los cuales comercializar dichos productos o servicios.
         .cajon.color-secundario.p-4.mt-5
           p.mb-0 Para realizar esta matriz se necesitan dos datos importantes, el primero es el portafolio de productos de la empresa y el segundo es la descripción del mercado objetivo de la empresa. Con esta información se acude a esta herramienta para ubicar dentro de cada uno de los cuadrantes los productos o servicios que definen las estrategias a desarrollar.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
@@ -137,7 +137,7 @@
             .col-lg-6.d-none.d-lg-block
               img.h-card-img(src='@/assets/curso/temas/tema4/img9.svg')
           .title-card.bg8.mx-2 Estrella
-          p.mt-4.text-center.mx-2 Son productos que generan una alta rentabilidad para le empresa, el crecimiento de la industria o del mercado es alto y su participación es fuerte.
+          p.mt-4.text-center.mx-2 Son productos que generan una alta rentabilidad para la empresa, el crecimiento de la industria o del mercado es alto y su participación es fuerte.
       .col-sm-12.col-lg-3.justify-content-center.mx-0.px-2
         .bg7.px-1.py-3.h-card.mb-cus
           .row.justify-content-center.align-items-center.my-4

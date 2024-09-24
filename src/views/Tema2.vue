@@ -120,7 +120,7 @@
               img(src='@/assets/curso/temas/tema2/img12.png')
           .col-sm-12.col-lg-6.mb-0
             h4 Investigación de mercados
-            p Una frase muy conocida dice: #[span <]quien tiene la información tiene el poder#[span >], nada más cierto y claro para definir esta variable, ya que cualquier empresa que desee sobresalir en el mercado tiene en la investigación y en el conocimiento la mejor herramienta para lograrlo.
+            p Una frase muy conocida dice: #[b "quien tiene la información tiene el poder"], nada más cierto y claro para definir esta variable, ya que cualquier empresa que desee sobresalir en el mercado tiene en la investigación y en el conocimiento la mejor herramienta para lograrlo.
       .bgimg2.py-3.py-md-4(titulo="Producto")
         .row.align-items-center.justify-content-center
           .col-sm-12.col-lg-4.d-none.d-lg-block
