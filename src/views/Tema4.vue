@@ -143,7 +143,7 @@
           .row.justify-content-center.align-items-center.my-4
             .col-lg-6.d-none.d-lg-block
               img.h-card-img(src='@/assets/curso/temas/tema4/img10.svg')
-          .title-card.bg8.mx-2 Incognita
+          .title-card.bg8.mx-2 Incógnita
           p.mt-4.text-center.mx-2 También llamados interrogantes, son productos con un potencial alto; sin embargo, con niveles bajos en ventas debido a su leve participación en el mercado a pesar del crecimiento de la industria.
       .col-sm-12.col-lg-3.justify-content-center.mx-0.px-2
         .bg7.px-1.py-3.h-card.mb-cus
@@ -252,13 +252,13 @@
     
     Separador
     #t_4_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")
-      h2  4.4 Matriz <i>DOFA</i>
+      h2  4.4 Matriz DOFA
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg13
           .bloque-texto-g__texto.p-5
-            p.mb-0 El análisis <i>DOFA</i> o <i>FODA</i>, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
+            p.mb-0 El análisis DOFA o FODA, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
     
     
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
@@ -282,7 +282,7 @@
         .titulo-sexto.color-secundario
           h5 Figura 4.
           span
-            |  Ejemplo matriz <i>DOFA</i>
+            |  Ejemplo matriz DOFA
         figure
           img(src='@/assets/curso/temas/tema4/img21.svg', alt='La imagen presenta la matriz DOFA, una herramienta de análisis estratégico que identifica Debilidades, Oportunidades, Fortalezas y Amenazas. Esta matriz se utiliza para desarrollar estrategias: DO (minimizar debilidades aprovechando oportunidades), FO (usar fortalezas para aprovechar oportunidades), DA (minimizar debilidades para enfrentar amenazas) y FA (usar fortalezas para enfrentar amenazas).')
         figcaption Fuente: SENA (2020) 
@@ -303,25 +303,25 @@
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img23.svg')
-        .title-card.bg8.mx-2.mb-4 <i>DO</i>
+        .title-card.bg8.mx-2.mb-4 DO
         p.mb-0.text-center Las debilidades halladas en la matriz deben ser contrastadas con oportunidades del mercado a través de tácticas internas.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img24.svg')
-        .title-card.bg8.mx-2.mb-4 <i>FO</i>
+        .title-card.bg8.mx-2.mb-4 FO
         p.mb-0.text-center Las oportunidades del mercado que la empresa haya identificado deben ser aprovechadas a través de las fortalezas que presenta.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img25.svg')
-        .title-card.bg8.mx-2.mb-4 <i>DA</i>
+        .title-card.bg8.mx-2.mb-4 DA
         p.mb-0.text-center Las debilidades y amenazas que la empresa presenta requieren de estrategias para ser superadas.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/img26.svg')
-        .title-card.bg8.mx-2.mb-4 <i>FA</i>
+        .title-card.bg8.mx-2.mb-4 FA
         p.mb-0.text-center Estrategias que permitan contrarrestar las posibles amenazas a partir de las fortalezas de la empresa.
 
     .row.justify-content-center.align-items-center.my-5(data-aos="zoom-in-left")
@@ -330,7 +330,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema4/img13.svg', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold El análisis <i>DOFA</i> permite plantear un compendio de estrategias que pueden llegar a ser muy eficaces en algún momento para la empresa, en relación con factores internos y externos; adicionalmente, genera un panorama amplio de su estado y de posibles puntos de debilidad o fortaleza que se deben mejorar y aprovechar.
+          p.mb-0.text-white.fw-bold El análisis DOFA permite plantear un compendio de estrategias que pueden llegar a ser muy eficaces en algún momento para la empresa, en relación con factores internos y externos; adicionalmente, genera un panorama amplio de su estado y de posibles puntos de debilidad o fortaleza que se deben mejorar y aprovechar.
 </template>
 
 <script>

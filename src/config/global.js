@@ -108,7 +108,7 @@ export default {
           },
           {
             numero: '4.4',
-            titulo: 'Matriz <i>DOFA</i>',
+            titulo: 'Matriz DOFA',
             hash: 't_4_4',
           },
         ],
@@ -210,7 +210,7 @@ export default {
     {
       tema: '2. Variables del mercado',
       referencia: 'Prieto, J. E (2013). Investigación de Mercados.',
-      tipo: 'Libro',
+      tipo: 'Libro digital',
       link:
         'https://books.google.com.co/books?hl=es&lr=&id=tQpZEAAAQBAJ&oi=fnd&pg=PR17&dq=Prieto,+J.+E+(2013).+Investigaci%C3%B3n+de+Mercados.&ots=EgcOfBVWZZ&sig=UCw4MZGGutwXkdame-6veYPrFJQ#v=onepage&q&f=false',
     },
@@ -224,7 +224,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<i>DOFA</i>',
+      termino: 'DOFA',
       significado:
         'es un instrumento de diagnóstico empresarial que nos permite aprovechar las fortalezas y oportunidades para vencer las debilidades y evitar las amenazas.',
     },
@@ -312,7 +312,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -323,28 +323,28 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Manuel Augusto Arias López',
           cargo: 'Instructor - experto temático',
-          centro: 'Regional Quindío - Centro de Comercio y Servicios',
+          centro: 'Centro de Comercio y Servicios - Regional Quindío',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Diseñador instruccional',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Julieth Paola Vital López',
           cargo: 'Evaluadora instruccional',
           centro:
-            'Regional Distrito Capital - Centro para la Industria y la Comunicación Gráfica ',
+            'Centro para la Industria y la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -354,22 +354,22 @@ export default {
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador de contenidos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora <i>full-stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla',
-          cargo: 'Desarrolladora <i>full-stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Desarrolladora <i>full-stack junior</i>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -379,12 +379,12 @@ export default {
         {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

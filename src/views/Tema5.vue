@@ -75,7 +75,7 @@
       h2 5.4 Análisis de información
     .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-sm-12.col-lg-4
-        p.mb-0  Requiere de varios pasos, el primero es organizar los datos, luego es necesario tabularlos para convertirlos en información. En este punto también se hacen necesarios algunos recursos tecnológicos como software de análisis y hojas de cálculo para guardar la información de forma ordenada. Los datos deben ser interpretados para facilitar la toma de decisiones.
+        p.mb-0  Requiere de varios pasos, el primero es organizar los datos, luego es necesario tabularlos para convertirlos en información. En este punto también se hacen necesarios algunos recursos tecnológicos como #[i software] de análisis y hojas de cálculo para guardar la información de forma ordenada. Los datos deben ser interpretados para facilitar la toma de decisiones.
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img6.png', alt='')
     
