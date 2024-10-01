@@ -66,7 +66,7 @@
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-8
                   p.fw-bold.mt-5 Economía
-                  p.mb-cus.mb-0 La economía es una ciencia que estudia cómo se gestionan los recursos en un contexto de escasez para satisfacer las necesidades humanas. Esta disciplina analiza variables que influyen en la actividad comercial de las Mipymes, incluyendo la oferta y la demanda, así como fenómenos monetarios como la devaluación de la moneda, la inflación y la deflación. Por ejemplo, una devaluación del peso frente al dólar puede perjudicar a las empresas que dependen de importaciones, mientras que beneficia a aquellas cuyas ingresos provienen de exportaciones.
+                  p.mb-cus.mb-0 La economía es una ciencia que estudia cómo se gestionan los recursos en un contexto de escasez para satisfacer las necesidades humanas. Esta disciplina analiza variables que influyen en la actividad comercial de las Mipymes, incluyendo la oferta y la demanda, así como fenómenos monetarios como la devaluación de la moneda, la inflación y la deflación. Por ejemplo, una devaluación del peso frente al dólar puede perjudicar a las empresas que dependen de importaciones, mientras que beneficia a aquellas cuyos ingresos provienen de exportaciones.
                 .col-sm-12.col-md-8.col-lg-4
                   img(src='@/assets/curso/temas/tema2/img7.png')
           .row.justify-content-center.align-items-center.mb-0
@@ -148,7 +148,7 @@
               img(src='@/assets/curso/temas/tema2/img16.png')
           .col-sm-12.col-lg-6.mb-0
             h4 Promoción
-            p Otro factor determinante en el proceso de comercialización es la promoción, la cual exige conocimientos y creatividad; sin embargo, hoy en día las posibilidades que ofrecen los nuevos medios hace que cualquier empresa pueda abarcar audiencias que en otras épocas eran inimaginables.
+            p Otro factor determinante en el proceso de comercialización es la promoción, la cual exige conocimientos y creatividad; sin embargo, hoy en día las posibilidades que ofrecen los nuevos medios hacen que cualquier empresa pueda abarcar audiencias que en otras épocas eran inimaginables.
       .bgimg2.py-3.py-md-4(titulo="Personal")
         .row.align-items-center.justify-content-center
           .col-sm-12.col-lg-4.d-none.d-lg-block
