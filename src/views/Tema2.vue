@@ -164,7 +164,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema2/img19.svg', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold Las variables del mercado, sean internas o externas representan la clave para el planteamiento de las estrategias de <i>marketing</i> y de comunicación. La principal tarea del encargado de la publicidad de la empresa está en el análisis cuidadoso de cada una de ellas, con el fin de que en el diseño se produzca un beneficio para la Mipyme y los riegos sean mínimos.
+          p.mb-0.text-white.fw-bold Las variables del mercado, sean internas o externas representan la clave para el planteamiento de las estrategias de <i>marketing</i> y de comunicación. La principal tarea del encargado de la publicidad de la empresa está en el análisis cuidadoso de cada una de ellas, con el fin de que en el diseño se produzca un beneficio para la Mipyme y los riesgos sean mínimos.
 </template>
 
 <script>
