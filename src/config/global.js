@@ -200,7 +200,7 @@ export default {
   },
   complementario: [
     {
-      tema: '2. Variables de mercado',
+      tema: '2. Variables de mercado.',
       referencia:
         'Merino, M. J. y Pintado, T. (2015). La investigación de mercados, claves para conocer los insights del consumidor.',
       tipo: 'Libro ESIC',
@@ -208,14 +208,14 @@ export default {
         'https://www.esic.edu/editorial/la-investigacion-de-mercados-claves-para-conocer-los-insights-del-consumidor',
     },
     {
-      tema: '2. Variables del mercado',
+      tema: '2. Variables del mercado.',
       referencia: 'Prieto, J. E (2013). Investigación de Mercados.',
       tipo: 'Libro digital',
       link:
         'https://books.google.com.co/books?hl=es&lr=&id=tQpZEAAAQBAJ&oi=fnd&pg=PR17&dq=Prieto,+J.+E+(2013).+Investigaci%C3%B3n+de+Mercados.&ots=EgcOfBVWZZ&sig=UCw4MZGGutwXkdame-6veYPrFJQ#v=onepage&q&f=false',
     },
     {
-      tema: '3.2 Fuentes de información',
+      tema: '3.2 Fuentes de información.',
       referencia:
         'Vilajoana, A., Jiménez, M., González, Z. y Vila, J. (2014). ¿Cómo diseñar una campaña de publicidad?',
       tipo: 'Libro digital',
@@ -358,12 +358,12 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla',
-          cargo: 'Desarrolladora <i>full-stack junior</i>',
+          cargo: 'Desarrolladora <i>fullstack junior</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

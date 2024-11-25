@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 5
       h1 Proceso de investigación
-    p.mb-5(data-aos="zoom-in-left") El desarrollo de una investigación debe necesariamente tener una estructura sólida, coherente y organizada. Esto, con el fin obtener la información y los resultados de la forma más eficiente posible.
+    p.mb-5(data-aos="zoom-in-left") El desarrollo de una investigación debe necesariamente tener una estructura sólida, coherente y organizada. Esto, con el fin de obtener la información y los resultados de la forma más eficiente posible.
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0
