@@ -125,7 +125,7 @@
                   h3.mb-1.text-white Medios de comunicación digital
                   p.mb-0.text-sn Revise con atención el video “Medios de comunicación digital”, que se encuentra en el material complementario.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=kHaL5F-GF0E" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=QP2gWDnxKIQ" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 
