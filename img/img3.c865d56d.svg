@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240.237" height="404.641" viewBox="0 0 1240.237 404.641">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="0.786" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f1f7fa"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Rectangle_652" data-name="Rectangle 652" d="M19.528,0H1220.473C1231.257,0,1240,6.683,1240,14.926V388.074c0,8.243-8.743,14.926-19.527,14.926H19.528C8.743,403,0,396.317,0,388.074V14.926C0,6.683,8.743,0,19.528,0Z" transform="translate(-12473.333 -12587.882)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_400993" data-name="Rectángulo 400993" width="56.764" height="110.08" transform="translate(100.924 97.823) rotate(152.705)" fill="none" stroke="#7d6eb2" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1100013" data-name="Grupo 1100013" transform="translate(-409.881 -582.358)">
+    <g id="Grupo_1100012" data-name="Grupo 1100012" transform="translate(72.882 -18)">
+      <g id="Grupo_1100011" data-name="Grupo 1100011" transform="translate(157.121 -6)">
+        <path id="Trazado_873511" data-name="Trazado 873511" d="M0,.783,1240-1.642c.049.3-.15.583,0,9.575V383c0,11.046.259,19.77,0,19.61L0,402.944c.21-.274,0-8.9,0-19.944V20C0,8.954-.273.423,0,.783Z" transform="translate(180 608)" fill="#aee6e6"/>
+        <g id="Enmascarar_grupo_1098673" data-name="Enmascarar grupo 1098673" transform="translate(12653.333 13195.882)" clip-path="url(#clip-path)">
+          <g id="Grupo_1098993" data-name="Grupo 1098993" transform="matrix(0.469, -0.883, 0.883, 0.469, -11513.07, -12231.028)">
+            <g id="Grupo_1098992" data-name="Grupo 1098992" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+              <g id="Grupo_1098991" data-name="Grupo 1098991" transform="translate(-40.452 9.018)">
+                <circle id="Elipse_11491" data-name="Elipse 11491" cx="52.595" cy="52.595" r="52.595" transform="translate(0 30.094) rotate(-16.624)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <circle id="Elipse_11492" data-name="Elipse 11492" cx="46.812" cy="46.812" r="46.812" transform="translate(14.752 108.024) rotate(-85.029)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <circle id="Elipse_11493" data-name="Elipse 11493" cx="41.029" cy="41.029" r="41.029" transform="matrix(0.14, -0.99, 0.99, 0.14, 19.062, 100.307)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <circle id="Elipse_11494" data-name="Elipse 11494" cx="35.246" cy="35.246" r="35.246" transform="translate(30.199 30.199)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <circle id="Elipse_11495" data-name="Elipse 11495" cx="29.462" cy="29.462" r="29.462" transform="translate(32.916 39.406) rotate(-6.323)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <path id="Trazado_873122" data-name="Trazado 873122" d="M23.679,0A23.679,23.679,0,1,1,0,23.679,23.679,23.679,0,0,1,23.679,0Z" transform="translate(32.382 70.763) rotate(-54.14)" fill="none" stroke="#7d6eb2" stroke-width="2"/>
+                <circle id="Elipse_11496" data-name="Elipse 11496" cx="17.896" cy="17.896" r="17.896" transform="matrix(0.495, -0.869, 0.869, 0.495, 41.039, 72.146)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <circle id="Elipse_11497" data-name="Elipse 11497" cx="12.112" cy="12.112" r="12.112" transform="translate(49.83 58.4) rotate(-20.72)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+                <path id="Trazado_873123" data-name="Trazado 873123" d="M.706,9.233a6.329,6.329,0,1,1,8.526,2.721A6.329,6.329,0,0,1,.706,9.233Z" transform="translate(59.114 59.114)" fill="none" stroke="#7d6eb2" stroke-miterlimit="10" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
