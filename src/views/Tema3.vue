@@ -122,10 +122,10 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1.text-white Medios de comunicación digital
-                  p.mb-0.text-sn Revise con atención el video “Medios de comunicación digital”, que se encuentra en el material complementario.
+                  h3.mb-1.text-white Fuentes de información parte II
+                  p.mb-0.text-sn Revise con atención el video “Fuentes de información parte II”, donde encontrará información acerca de los medios de comunicación.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=QP2gWDnxKIQ" target="_blank")
+                  a.boton.color-acento-botones(href="https://youtu.be/kHaL5F-GF0E" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
 

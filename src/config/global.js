@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Investigación publicitaria',
-    descripcionCurso:
+    Name: 'Investigación publicitaria',
+    Description:
       'La investigación publicitaria es una rama especializada de la investigación de mercados que se enfoca específicamente en recopilar y analizar datos e información relevante para la comunicación y promoción de una empresa. Este tipo de investigación es crucial para desarrollar estrategias efectivas de publicidad, pues permite realizar un diagnóstico detallado y orientado a mejorar las actividades publicitarias de la empresa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
