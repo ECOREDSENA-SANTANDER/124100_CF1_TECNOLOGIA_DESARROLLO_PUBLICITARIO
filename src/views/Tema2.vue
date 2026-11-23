@@ -50,7 +50,7 @@
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-8
                   p.fw-bold.mt-5 Competencia
-                  p.mb-cus.mb-0 El mercado está diseñado para que los consumidores tengan la libertada de escoger los productos o servicios que satisfagan sus necesidades y la competencia va a hacer todo lo que esté a su alcance para atraer la mayor cantidad de clientes; por este motivo, ninguna empresa está en la capacidad (dentro de las normas éticas) de impedirlo.
+                  p.mb-cus.mb-0 El mercado está diseñado para que los consumidores tengan la libertad de escoger los productos o servicios que satisfagan sus necesidades y la competencia va a hacer todo lo que esté a su alcance para atraer la mayor cantidad de clientes; por este motivo, ninguna empresa está en la capacidad (dentro de las normas éticas) de impedirlo.
                 .col-sm-12.col-md-8.col-lg-4
                   img(src='@/assets/curso/temas/tema2/img5.png')                
           .row.justify-content-center.align-items-center.mb-0
@@ -58,7 +58,7 @@
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-8
                   p.fw-bold.mt-5 Leyes
-                  p.mb-cus.mb-0 Las normas son necesarias para el buen funcionamiento del Estado y para el caso del comercio, ninguna empresa puede ni debe interferir en la proclamación de leyes mercantiles que se publican para el bien colectivo y no de particulares. Los impuestos por ejemplo afectan a ciertas empresas, de acuerdo con el tipo de sociedad.
+                  p.mb-cus.mb-0 Las normas son necesarias para el buen funcionamiento del Estado y para el caso del comercio, ninguna empresa puede ni debe interferir en la proclamación de leyes mercantiles que se publican para el bien colectivo y no de particulares. Los impuestos, por ejemplo afectan a ciertas empresas, de acuerdo con el tipo de sociedad.
                 .col-sm-12.col-md-8.col-lg-4
                   img(src='@/assets/curso/temas/tema2/img6.png')
           .row.justify-content-center.align-items-center.mb-0
@@ -164,7 +164,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema2/img19.svg', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold Las variables del mercado, sean internas o externas representan la clave para el planteamiento de las estrategias de <i>marketing</i> y de comunicación. La principal tarea del encargado de la publicidad de la empresa está en el análisis cuidadoso de cada una de ellas, con el fin de que en el diseño se produzca un beneficio para la Mipyme y los riesgos sean mínimos.
+          p.mb-0.text-white.fw-bold Las variables del mercado, sean internas o externas, representan la clave para el planteamiento de las estrategias de <i>marketing</i> y de comunicación. La principal tarea del encargado de la publicidad de la empresa está en el análisis cuidadoso de cada una de ellas, con el fin de que en el diseño se produzca un beneficio para la Mipyme y los riesgos sean mínimos.
 </template>
 
 <script>

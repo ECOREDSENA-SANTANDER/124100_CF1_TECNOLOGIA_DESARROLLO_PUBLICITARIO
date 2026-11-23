@@ -288,10 +288,10 @@
             p.mb-0 Consiste en que el investigado completa una frase o una historia que permite conocer sus posiciones frente a determinadas situaciones.
           .tarjeta.bg6.text-center.p-4(x="61%" y="14%" numero="+")
             .h5.mb-2 #[b Técnicas de construcción:] 
-            p.mb-0 Con esta técnica el investigado realiza dibujos, esculturas, esquemas, entre otros elementos que permiten una posterior interpretación.
+            p.mb-0 Con esta técnica, el investigado realiza dibujos, esculturas, esquemas, entre otros elementos que permiten una posterior interpretación.
           .tarjeta.bg6.text-center.p-4(x="87%" y="89%" numero="+")
             .h5.mb-2 #[b Técnicas de expresión:] 
-            p.mb-0 En esta técnica el investigado se expresa a través de un rol específico en una situación planteada, para luego realizar el respectivo análisis.
+            p.mb-0 En esta técnica, el investigado se expresa a través de un rol específico en una situación planteada, para luego realizar el respectivo análisis.
 
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10

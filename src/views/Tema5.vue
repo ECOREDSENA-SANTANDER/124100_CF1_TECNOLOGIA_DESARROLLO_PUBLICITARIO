@@ -66,7 +66,7 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema5/img5.png', alt='')
       .col-sm-12.col-lg-4 
-        p.mb-0 Obtener la información se convierte en la parte más importante del proceso, puesto que estos datos serán necesarios para la posterior toma de decisiones. En este punto, a partir de un cronograma de trabajo detallado se aplican los diferentes instrumentos: encuestas, <i>focus group</i>, observación, entre otros. La logística en esta fase es importante debido a que son necesarios recursos técnicos, tecnológicos y humanos.
+        p.mb-0 Obtener la información se convierte en la parte más importante del proceso, puesto que estos datos serán necesarios para la posterior toma de decisiones. En este punto, a partir de un cronograma de trabajo detallado, se aplican los diferentes instrumentos: encuestas, <i>focus group</i>, observación, entre otros. La logística en esta fase es importante debido a que son necesarios recursos técnicos, tecnológicos y humanos.
       
     
     

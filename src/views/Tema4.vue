@@ -13,7 +13,7 @@
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-0
           .bloque-texto-g__img.bgimg11
           .bloque-texto-g__texto.p-5
-            p.mb-0 Las matrices de diagnóstico, son herramientas útiles para analizar diferentes aspectos de la empresa realizando comparaciones con variables externas que permitan medir su estado actual en el mercado. Dichas confrontaciones se realizan con el fin de plantear estrategias a partir de las variables internas para contrarrestar los efectos generados por las variables externas.
+            p.mb-0 Las matrices de diagnóstico, son herramientas útiles para analizar diferentes aspectos de la empresa, realizando comparaciones con variables externas que permitan medir su estado actual en el mercado. Dichas confrontaciones se realizan con el fin de plantear estrategias a partir de las variables internas para contrarrestar los efectos generados por las variables externas.
     
     Separador
     #t_4_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -258,7 +258,7 @@
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.bgimg13
           .bloque-texto-g__texto.p-5
-            p.mb-0 El análisis DOFA o FODA, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
+            p.mb-0 El análisis DOFA o FODA, es un método que permite examinar debilidades, oportunidades, fortalezas y amenazas de una empresa. Este procedimiento es uno de los más realizados por las organizaciones para la toma de decisiones en relación con las variables internas y externas, debido a que permite la ponderación de los factores y el planteamiento de estrategias para contrarrestar los hallazgos negativos.
     
     
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
