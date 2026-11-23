@@ -2,17 +2,15 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. 
-    
-
+    p.mb-5 Este esquema organiza de manera eficiente los elementos esenciales para entender la investigación en el ámbito publicitario y de mercados. 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Se detalla el proceso y componentes de la investigación publicitaria junto a los antecedentes de la investigación de mercados. En el área de investigación publicitaria, se abordan las variables del mercado que influyen en las decisiones de mercado, las técnicas y fuentes para la recolección de información, y diversas matrices de diagnóstico como la matriz de Ansoff, BCG, de Competitividad y DOFA. Por otro lado, los antecedentes de la investigación de mercados se describen a través de un proceso que incluye la identificación del problema, la metodología aplicada, la recolección y análisis de datos, y la elaboración de conclusiones y estrategias resultantes.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
 
